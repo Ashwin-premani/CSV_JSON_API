@@ -62,9 +62,9 @@ const testCases = [
 ];
 
 // Create test-data directory if it doesn't exist
-const testDataDir = path.join(process.cwd(), 'test-data');
+const testDataDir = path.join(process.cwd(),'public', 'test-data');
 if (!fs.existsSync(testDataDir)) {
-  fs.mkdirSync(testDataDir);
+  fs.mkdirSync(testDataDir, { recursive: true });
 }
 
 // Generate test files

@@ -1,0 +1,11 @@
+name.firstName,name.lastName,age,address.line1,address.line2,address.city,address.state,gender,phone.mobile,phone.home,hobbies,education.degree,education.university
+Anita,Prasad,69,D-876 Lake View,Main Street,Hyderabad,Maharashtra,other,+917908628032,022-15881935,reading,M.Sc,Pune University
+Deepika,Desai,57,Q-913 Rakshak Society,MG Road,Mumbai,Delhi,male,+911503819326,022-70531519,music,MBA,Anna University
+Arjun,Gupta,71,X-178 Lake View,Ring Road,Mumbai,Delhi,male,+914290704490,022-94437801,cricket,MBA,Anna University
+Anita,Prasad,68,U-891 Rakshak Society,MG Road,Mumbai,Delhi,male,+914725797439,022-94261676,music,MBA,Pune University
+Rajesh,Patel,60,U-764 Green Park,MG Road,Mumbai,Telangana,female,+916190999373,022-63628112,cricket,M.Tech,Mumbai University
+Deepika,Kumar,38,P-808 Green Park,Main Street,Mumbai,Telangana,male,+916073360000,022-82246731,gaming,B.Sc,Anna University
+Rajesh,Prasad,44,M-440 Rakshak Society,New Pune Road,Delhi,West Bengal,male,+912272519259,022-87571522,music,B.Com,NIT
+Arjun,Mehta,15,Y-149 Rakshak Society,Main Street,Mumbai,Telangana,male,+916427835479,022-59820199,cricket,B.Sc,NIT
+Arjun,Singh,26,G-597 Rakshak Society,New Pune Road,Mumbai,Tamil Nadu,male,+911030426388,022-73058441,music,M.Tech,NIT
+Kavya,Mehta,60,V-899 Green Park,MG Road,Delhi,Delhi,female,+916568188988,022-80055857,gaming,M.Tech,IIT

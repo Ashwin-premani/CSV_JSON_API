@@ -1,0 +1,1001 @@
+name.firstName,name.lastName,age,address.line1,address.line2,address.city,address.state,gender,phone.mobile,phone.home,hobbies,education.degree,education.university
+Vikram,Desai,52,K-981 Lake View,New Pune Road,Kolkata,Maharashtra,male,+918085505667,022-27009451,cooking,B.Sc,Pune University
+Arjun,Sharma,81,E-625 Lake View,Ring Road,Chennai,Telangana,male,+912114503777,022-85087955,cricket,B.Com,Pune University
+Amit,Kumar,19,J-380 Royal Apartments,New Pune Road,Pune,West Bengal,other,+919291489747,022-50173506,cricket,M.Tech,Pune University
+Vikram,Gupta,43,J-121 Royal Apartments,MG Road,Chennai,Tamil Nadu,other,+911150579963,022-29109654,reading,B.Sc,NIT
+Sneha,Gupta,72,Z-11 Green Park,New Pune Road,Kolkata,Karnataka,male,+915403448330,022-14372466,cooking,B.Tech,NIT
+Anita,Gupta,62,V-779 Lake View,MG Road,Chennai,Karnataka,female,+918927702511,022-81102846,gaming,M.Sc,IIT
+Vikram,Kumar,43,P-5 Green Park,Ring Road,Hyderabad,Tamil Nadu,female,+917240369278,022-69494018,gaming,M.Tech,Mumbai University
+Anita,Mehta,27,A-685 Royal Apartments,MG Road,Chennai,Delhi,other,+912982252670,022-65200639,music,M.Tech,IIT
+Rajesh,Kumar,37,Y-197 Green Park,Ring Road,Mumbai,West Bengal,female,+911036852318,022-30876945,cooking,B.Sc,Pune University
+Kavya,Gupta,23,A-132 Lake View,Ring Road,Kolkata,Karnataka,female,+915415583277,022-96582180,gaming,M.Sc,Mumbai University
+Sneha,Patel,49,T-556 Green Park,New Pune Road,Delhi,Tamil Nadu,female,+913929586571,022-26546653,traveling,B.Sc,NIT
+Sneha,Gupta,47,Y-138 Lake View,Ring Road,Delhi,Karnataka,male,+915545989981,022-78224360,music,MBA,Pune University
+Rajesh,Mehta,24,F-202 Rakshak Society,Main Street,Delhi,Karnataka,female,+915534608161,022-97221777,traveling,MBA,Anna University
+Deepika,Patel,50,O-42 Lake View,MG Road,Delhi,West Bengal,male,+911132612451,022-92476649,gaming,B.Com,IIT
+Amit,Mehta,30,H-837 Lake View,Ring Road,Chennai,Maharashtra,female,+913606721855,022-49275668,cricket,M.Sc,NIT
+Anita,Desai,80,M-267 Royal Apartments,Main Street,Mumbai,Delhi,female,+914536485554,022-16127956,music,M.Tech,IIT
+Priya,Desai,53,V-952 Lake View,MG Road,Pune,Delhi,female,+917039418891,022-76778651,music,B.Com,IIT
+Kavya,Gupta,60,I-210 Green Park,MG Road,Bangalore,Tamil Nadu,male,+913806970505,022-20968866,reading,B.Com,Anna University
+Rohit,Singh,30,X-417 Lake View,Ring Road,Kolkata,Delhi,female,+916419160276,022-66469483,cricket,M.Sc,IIT
+Sneha,Desai,32,C-998 Royal Apartments,MG Road,Delhi,Delhi,female,+914891791439,022-14450901,music,MBA,Pune University
+Kavya,Prasad,78,T-748 Royal Apartments,Main Street,Chennai,West Bengal,other,+915155019685,022-11580698,cooking,B.Com,Anna University
+Anita,Mehta,81,L-59 Green Park,Main Street,Pune,Maharashtra,female,+911754567182,022-84690845,music,B.Tech,Anna University
+Priya,Singh,50,U-366 Lake View,Main Street,Mumbai,West Bengal,other,+916985888790,022-61930902,traveling,M.Sc,Anna University
+Kavya,Desai,83,Y-519 Green Park,Ring Road,Pune,Telangana,male,+918394486595,022-39798521,gaming,B.Tech,Anna University
+Vikram,Sharma,70,T-391 Lake View,Main Street,Kolkata,Maharashtra,male,+912381811249,022-48016182,reading,M.Sc,Anna University
+Sneha,Reddy,47,R-212 Lake View,New Pune Road,Mumbai,West Bengal,female,+917580222509,022-93008154,music,M.Tech,IIT
+Priya,Patel,34,P-97 Lake View,Ring Road,Pune,West Bengal,female,+916331983082,022-21137967,gaming,B.Tech,Mumbai University
+Rohit,Desai,17,Q-620 Rakshak Society,Ring Road,Chennai,West Bengal,male,+919477420216,022-98489283,gaming,B.Sc,Mumbai University
+Rohit,Kumar,42,X-131 Rakshak Society,New Pune Road,Delhi,Delhi,female,+911555360835,022-77613034,gaming,M.Sc,Pune University
+Anita,Mehta,51,N-133 Royal Apartments,New Pune Road,Delhi,Karnataka,male,+918898837286,022-10471497,cooking,MBA,IIT
+Sneha,Iyer,17,C-799 Green Park,Main Street,Mumbai,Telangana,other,+915696462952,022-82902265,gaming,M.Tech,Mumbai University
+Rajesh,Singh,18,G-29 Rakshak Society,Ring Road,Hyderabad,West Bengal,female,+917966732561,022-20609345,music,B.Com,Mumbai University
+Anita,Kumar,73,O-68 Lake View,MG Road,Chennai,Karnataka,female,+918611324461,022-12632373,music,M.Tech,Mumbai University
+Arjun,Singh,38,G-296 Green Park,Ring Road,Delhi,West Bengal,female,+914118856582,022-48305643,cricket,B.Tech,IIT
+Vikram,Gupta,16,P-13 Lake View,MG Road,Kolkata,Maharashtra,female,+914610909052,022-20932503,cricket,M.Sc,Anna University
+Amit,Sharma,19,C-406 Green Park,New Pune Road,Chennai,West Bengal,other,+912994356932,022-26628472,gaming,B.Com,NIT
+Amit,Desai,30,R-509 Rakshak Society,Ring Road,Bangalore,Delhi,male,+912874193070,022-19004896,cooking,M.Tech,NIT
+Kavya,Singh,83,D-235 Rakshak Society,Main Street,Hyderabad,Maharashtra,male,+911298667593,022-16468128,cricket,B.Tech,NIT
+Rohit,Singh,17,A-867 Green Park,Main Street,Bangalore,Maharashtra,other,+914112181868,022-80300927,cooking,B.Sc,Anna University
+Rajesh,Prasad,64,T-87 Green Park,Main Street,Bangalore,Telangana,male,+912233947699,022-82540886,reading,B.Com,Anna University
+Vikram,Mehta,66,Q-898 Lake View,Ring Road,Chennai,Karnataka,other,+916808862513,022-97883746,music,B.Tech,NIT
+Sneha,Sharma,74,D-545 Green Park,Main Street,Mumbai,Delhi,male,+919569211743,022-36898629,cooking,M.Tech,NIT
+Vikram,Prasad,27,B-595 Rakshak Society,New Pune Road,Chennai,Karnataka,male,+918796086878,022-19119323,gaming,MBA,IIT
+Priya,Sharma,75,R-168 Lake View,Main Street,Hyderabad,Telangana,other,+917930098526,022-41645831,reading,B.Tech,IIT
+Amit,Mehta,21,Z-173 Green Park,MG Road,Kolkata,West Bengal,female,+913888251419,022-21919896,gaming,B.Sc,IIT
+Arjun,Reddy,64,Z-747 Royal Apartments,Ring Road,Kolkata,West Bengal,other,+911722809658,022-56980877,music,M.Tech,Mumbai University
+Deepika,Reddy,55,N-971 Royal Apartments,MG Road,Hyderabad,Delhi,other,+917021220874,022-79785068,gaming,B.Com,Anna University
+Anita,Iyer,57,V-884 Royal Apartments,MG Road,Delhi,West Bengal,female,+912851741063,022-61975320,gaming,B.Com,Mumbai University
+Rajesh,Prasad,41,P-636 Lake View,New Pune Road,Bangalore,West Bengal,other,+919071788867,022-18844264,music,M.Sc,Mumbai University
+Vikram,Singh,66,G-305 Green Park,New Pune Road,Pune,Karnataka,other,+918240039974,022-55111254,gaming,B.Com,Pune University
+Vikram,Sharma,30,E-674 Lake View,MG Road,Kolkata,Tamil Nadu,female,+919238888938,022-11538101,traveling,M.Sc,IIT
+Rohit,Iyer,59,Y-890 Rakshak Society,Main Street,Hyderabad,Maharashtra,other,+914434586671,022-75792650,reading,B.Tech,NIT
+Rajesh,Gupta,18,L-271 Lake View,Main Street,Kolkata,West Bengal,other,+915278989638,022-31777423,music,MBA,IIT
+Priya,Reddy,78,G-834 Royal Apartments,MG Road,Chennai,Telangana,other,+918752187824,022-56559946,traveling,B.Sc,NIT
+Deepika,Kumar,73,M-869 Green Park,MG Road,Bangalore,Karnataka,other,+915343060499,022-32523633,music,B.Sc,IIT
+Deepika,Singh,62,Q-957 Lake View,MG Road,Kolkata,Maharashtra,male,+918948288507,022-24370664,traveling,B.Tech,NIT
+Rajesh,Reddy,32,D-390 Green Park,Main Street,Mumbai,Telangana,other,+919296191384,022-59579783,music,B.Tech,NIT
+Kavya,Patel,61,I-377 Royal Apartments,Ring Road,Delhi,West Bengal,female,+913302405454,022-38140176,traveling,B.Com,Anna University
+Deepika,Patel,78,I-335 Rakshak Society,Main Street,Delhi,Telangana,other,+912224992977,022-31063139,reading,B.Tech,Pune University
+Kavya,Kumar,31,R-405 Royal Apartments,MG Road,Bangalore,Karnataka,female,+918597502980,022-48935301,gaming,M.Sc,Pune University
+Deepika,Reddy,72,G-157 Green Park,Main Street,Bangalore,Telangana,female,+914034637363,022-68029650,cricket,M.Tech,Pune University
+Deepika,Reddy,69,F-574 Royal Apartments,MG Road,Bangalore,Telangana,other,+917851347412,022-48787908,cricket,B.Com,Mumbai University
+Arjun,Gupta,66,P-915 Green Park,Main Street,Mumbai,Karnataka,male,+919856390144,022-47953029,traveling,M.Sc,NIT
+Rohit,Reddy,38,T-69 Green Park,MG Road,Hyderabad,West Bengal,male,+916540299538,022-30212575,cricket,M.Sc,Pune University
+Amit,Kumar,31,B-983 Royal Apartments,New Pune Road,Kolkata,Tamil Nadu,female,+917062965319,022-57216327,cricket,B.Tech,IIT
+Rohit,Prasad,42,F-334 Green Park,New Pune Road,Delhi,Maharashtra,male,+918799701712,022-82532062,music,M.Sc,IIT
+Priya,Mehta,47,Q-335 Royal Apartments,MG Road,Mumbai,Maharashtra,other,+913286832791,022-10249182,gaming,B.Com,Anna University
+Deepika,Kumar,61,R-841 Rakshak Society,Main Street,Chennai,Tamil Nadu,other,+911856885975,022-78748999,cooking,B.Com,NIT
+Deepika,Iyer,65,G-325 Royal Apartments,New Pune Road,Pune,Maharashtra,female,+917616716647,022-81548805,traveling,M.Tech,Pune University
+Anita,Mehta,71,H-204 Lake View,Main Street,Pune,Tamil Nadu,male,+915877455120,022-49667293,cooking,B.Com,Anna University
+Vikram,Reddy,78,N-859 Royal Apartments,Main Street,Chennai,West Bengal,female,+915532689867,022-50872816,gaming,B.Tech,IIT
+Kavya,Mehta,82,C-225 Royal Apartments,Main Street,Delhi,Delhi,other,+914844810631,022-57720190,cooking,M.Sc,Anna University
+Anita,Singh,28,R-907 Rakshak Society,Ring Road,Chennai,Karnataka,male,+919586998451,022-26783448,gaming,M.Tech,Pune University
+Kavya,Prasad,26,W-938 Green Park,Main Street,Mumbai,West Bengal,female,+916595242639,022-22800400,reading,B.Com,Anna University
+Rajesh,Iyer,78,J-63 Lake View,Ring Road,Mumbai,Maharashtra,male,+914218082714,022-35844500,cricket,B.Com,Pune University
+Amit,Mehta,44,H-721 Lake View,New Pune Road,Kolkata,Maharashtra,other,+911285256091,022-91142274,gaming,B.Sc,Anna University
+Vikram,Desai,58,U-350 Lake View,Main Street,Chennai,Maharashtra,female,+918258799340,022-93247717,cricket,M.Tech,Anna University
+Priya,Desai,49,G-290 Lake View,MG Road,Chennai,Maharashtra,male,+918899398985,022-71746522,music,B.Tech,Pune University
+Rajesh,Reddy,74,R-484 Green Park,Main Street,Mumbai,Telangana,male,+911110562522,022-84885693,cricket,B.Com,Mumbai University
+Amit,Kumar,81,H-302 Royal Apartments,Ring Road,Bangalore,Maharashtra,female,+914436875291,022-75322450,reading,M.Sc,Mumbai University
+Rajesh,Prasad,82,A-647 Green Park,Main Street,Mumbai,Telangana,other,+919334278784,022-14686474,music,B.Tech,Anna University
+Sneha,Iyer,72,G-85 Royal Apartments,Main Street,Hyderabad,Tamil Nadu,male,+914856402126,022-70049494,reading,MBA,Pune University
+Rohit,Iyer,68,N-962 Royal Apartments,Ring Road,Bangalore,Delhi,other,+915204878803,022-21482908,traveling,B.Sc,IIT
+Vikram,Gupta,56,R-21 Rakshak Society,Main Street,Bangalore,Tamil Nadu,male,+914426078049,022-33490680,cooking,B.Com,Mumbai University
+Rohit,Kumar,69,P-877 Royal Apartments,Ring Road,Kolkata,Maharashtra,male,+916988853097,022-63055705,cooking,B.Com,Mumbai University
+Deepika,Desai,21,Y-276 Rakshak Society,Ring Road,Delhi,Delhi,male,+917209761337,022-71041693,music,M.Tech,Anna University
+Rohit,Iyer,77,B-34 Green Park,Ring Road,Delhi,West Bengal,female,+915571025016,022-24025978,reading,M.Sc,NIT
+Priya,Gupta,44,U-512 Rakshak Society,Main Street,Delhi,Tamil Nadu,male,+915869192037,022-82469503,gaming,B.Tech,IIT
+Arjun,Gupta,31,R-989 Royal Apartments,Ring Road,Kolkata,Maharashtra,female,+919777859832,022-42189127,gaming,B.Sc,IIT
+Sneha,Patel,29,A-366 Royal Apartments,New Pune Road,Pune,Delhi,other,+917855947924,022-42693931,music,M.Tech,IIT
+Kavya,Iyer,35,Z-319 Rakshak Society,MG Road,Pune,Delhi,male,+916477378988,022-84282032,cricket,MBA,Anna University
+Anita,Reddy,27,O-320 Lake View,MG Road,Kolkata,Maharashtra,male,+912846839538,022-73042497,music,B.Tech,Pune University
+Rajesh,Reddy,66,D-537 Royal Apartments,New Pune Road,Mumbai,Telangana,male,+916356449025,022-99640737,reading,B.Com,NIT
+Rohit,Gupta,21,C-11 Royal Apartments,Ring Road,Bangalore,Delhi,female,+913068277065,022-29748851,cricket,B.Com,Mumbai University
+Kavya,Patel,65,O-890 Green Park,Ring Road,Bangalore,West Bengal,male,+913434217094,022-79868086,cricket,B.Tech,IIT
+Sneha,Kumar,80,S-345 Rakshak Society,New Pune Road,Pune,West Bengal,female,+916071448815,022-25530463,reading,B.Sc,Pune University
+Rohit,Singh,23,R-166 Green Park,New Pune Road,Pune,Tamil Nadu,other,+918291799177,022-50408265,cooking,B.Tech,Pune University
+Priya,Kumar,81,A-412 Rakshak Society,New Pune Road,Kolkata,Delhi,female,+919426189861,022-17137976,music,M.Sc,Pune University
+Rajesh,Prasad,75,B-867 Green Park,Main Street,Bangalore,Karnataka,female,+913476966463,022-94233602,cricket,B.Sc,Anna University
+Priya,Sharma,36,T-292 Lake View,MG Road,Hyderabad,Tamil Nadu,female,+918402260635,022-95123296,reading,B.Com,IIT
+Deepika,Mehta,15,I-514 Royal Apartments,Ring Road,Delhi,West Bengal,female,+913191556046,022-64444336,reading,MBA,NIT
+Vikram,Patel,16,Z-307 Royal Apartments,Main Street,Kolkata,Maharashtra,female,+912043903192,022-97495777,gaming,B.Sc,Mumbai University
+Priya,Singh,42,K-8 Lake View,Main Street,Pune,Delhi,male,+914823780629,022-23121178,reading,M.Tech,IIT
+Sneha,Patel,50,C-442 Royal Apartments,Main Street,Mumbai,Delhi,other,+915949451136,022-65927092,music,M.Sc,Anna University
+Vikram,Patel,38,O-963 Lake View,MG Road,Delhi,Telangana,female,+916571487829,022-11704016,cricket,B.Tech,IIT
+Amit,Mehta,23,V-775 Rakshak Society,Ring Road,Chennai,Tamil Nadu,other,+919154289999,022-22877172,music,B.Com,NIT
+Anita,Mehta,53,K-474 Rakshak Society,MG Road,Kolkata,West Bengal,female,+917840357035,022-36721316,gaming,B.Com,Pune University
+Sneha,Desai,56,U-754 Royal Apartments,Main Street,Kolkata,Maharashtra,other,+917264912103,022-36810674,gaming,B.Sc,IIT
+Arjun,Prasad,83,D-215 Green Park,New Pune Road,Mumbai,Karnataka,other,+914644596024,022-60908059,cricket,M.Tech,Mumbai University
+Anita,Iyer,26,N-592 Rakshak Society,Ring Road,Kolkata,Telangana,other,+914317192229,022-97925614,music,B.Sc,NIT
+Anita,Patel,43,N-615 Lake View,Main Street,Hyderabad,Karnataka,male,+912187707192,022-13452940,reading,M.Sc,Pune University
+Vikram,Reddy,63,U-860 Rakshak Society,Main Street,Kolkata,Delhi,female,+914515600931,022-84761724,cooking,MBA,NIT
+Sneha,Patel,75,X-161 Rakshak Society,Ring Road,Kolkata,Maharashtra,female,+917315343763,022-22856493,gaming,M.Sc,Anna University
+Rajesh,Iyer,77,W-374 Green Park,Main Street,Kolkata,Telangana,other,+914793385304,022-41493804,traveling,M.Tech,IIT
+Arjun,Iyer,24,F-566 Rakshak Society,Ring Road,Kolkata,Maharashtra,male,+911448898028,022-52713761,music,M.Sc,Anna University
+Kavya,Iyer,50,Z-235 Lake View,Ring Road,Mumbai,Tamil Nadu,other,+914819535119,022-15184727,gaming,B.Com,Pune University
+Kavya,Gupta,63,T-573 Rakshak Society,Ring Road,Bangalore,Delhi,female,+915223805757,022-75106100,music,MBA,Pune University
+Deepika,Patel,54,W-980 Royal Apartments,Main Street,Bangalore,Karnataka,female,+919662752544,022-36142084,gaming,B.Tech,NIT
+Rajesh,Prasad,84,Y-860 Rakshak Society,Ring Road,Pune,Maharashtra,other,+919237199258,022-77428862,cricket,B.Sc,Mumbai University
+Sneha,Singh,74,C-608 Green Park,Main Street,Bangalore,Delhi,other,+912381055564,022-67007994,reading,B.Sc,Pune University
+Kavya,Reddy,69,K-625 Lake View,MG Road,Delhi,Tamil Nadu,female,+912748532140,022-78404811,traveling,B.Tech,Pune University
+Amit,Kumar,41,S-92 Rakshak Society,Ring Road,Pune,Tamil Nadu,other,+918735442813,022-41854723,cricket,M.Tech,Mumbai University
+Rajesh,Sharma,28,E-613 Lake View,New Pune Road,Chennai,Tamil Nadu,female,+918066793757,022-95701466,music,M.Tech,Pune University
+Priya,Singh,62,N-287 Lake View,MG Road,Delhi,Telangana,female,+916989023109,022-88866999,music,M.Sc,Pune University
+Rajesh,Iyer,18,H-441 Lake View,New Pune Road,Hyderabad,Karnataka,male,+912905641104,022-40180756,cooking,B.Sc,Anna University
+Deepika,Reddy,29,S-33 Rakshak Society,MG Road,Hyderabad,Delhi,other,+914889058381,022-77529509,traveling,B.Sc,Anna University
+Deepika,Prasad,76,O-906 Royal Apartments,Ring Road,Mumbai,Karnataka,other,+917215117320,022-39900486,cricket,B.Sc,Mumbai University
+Priya,Mehta,68,B-14 Rakshak Society,Main Street,Chennai,Karnataka,other,+913558551383,022-98814339,gaming,M.Tech,Pune University
+Arjun,Reddy,69,L-675 Green Park,MG Road,Delhi,Karnataka,male,+916010646304,022-48066531,traveling,B.Sc,NIT
+Deepika,Sharma,69,D-559 Royal Apartments,MG Road,Chennai,Maharashtra,male,+918430650220,022-17531041,traveling,M.Tech,NIT
+Arjun,Kumar,53,W-308 Rakshak Society,Main Street,Hyderabad,Telangana,female,+912776929635,022-95314431,traveling,MBA,NIT
+Rohit,Desai,22,B-773 Royal Apartments,New Pune Road,Bangalore,West Bengal,other,+911389356375,022-55375146,cooking,B.Tech,Mumbai University
+Sneha,Prasad,22,B-104 Green Park,Ring Road,Mumbai,Delhi,other,+911070316253,022-13926216,reading,B.Tech,Anna University
+Amit,Singh,37,S-772 Green Park,Ring Road,Bangalore,West Bengal,male,+918321773055,022-87988800,gaming,M.Tech,NIT
+Rajesh,Mehta,32,T-256 Rakshak Society,MG Road,Mumbai,Maharashtra,other,+917406273196,022-11051785,cooking,M.Tech,Pune University
+Rajesh,Kumar,66,C-787 Green Park,New Pune Road,Pune,West Bengal,female,+913604532155,022-34081381,gaming,B.Tech,NIT
+Rohit,Gupta,56,E-559 Lake View,New Pune Road,Chennai,West Bengal,male,+913452865784,022-88565995,cricket,B.Sc,IIT
+Arjun,Patel,21,Y-11 Green Park,MG Road,Pune,Delhi,other,+917753972596,022-20495765,traveling,M.Tech,Mumbai University
+Anita,Desai,27,Z-936 Rakshak Society,Main Street,Hyderabad,West Bengal,male,+919306759943,022-49742995,reading,B.Tech,Mumbai University
+Sneha,Prasad,39,J-672 Green Park,Ring Road,Kolkata,Delhi,other,+919067704519,022-79141006,music,B.Com,Anna University
+Anita,Kumar,66,J-630 Green Park,MG Road,Bangalore,Karnataka,other,+917504893504,022-19908191,music,M.Tech,Mumbai University
+Sneha,Desai,65,X-740 Rakshak Society,MG Road,Mumbai,Telangana,other,+917391571638,022-99077509,cricket,B.Tech,Mumbai University
+Rajesh,Sharma,16,L-250 Rakshak Society,MG Road,Chennai,Maharashtra,other,+917788494017,022-99934863,cooking,M.Tech,Pune University
+Sneha,Prasad,44,Q-386 Green Park,Main Street,Delhi,West Bengal,female,+917959857995,022-57965709,cricket,B.Tech,Anna University
+Sneha,Sharma,38,L-64 Rakshak Society,Main Street,Pune,Karnataka,male,+918827340205,022-90353815,cricket,B.Com,Pune University
+Rajesh,Sharma,74,O-753 Rakshak Society,Ring Road,Bangalore,West Bengal,female,+919764037934,022-51430707,gaming,M.Tech,IIT
+Rohit,Gupta,29,E-561 Lake View,MG Road,Mumbai,Maharashtra,other,+916064206274,022-38389229,cricket,B.Com,Mumbai University
+Anita,Kumar,54,E-997 Royal Apartments,Main Street,Mumbai,Delhi,male,+912632241079,022-72283402,cooking,MBA,Mumbai University
+Rohit,Kumar,63,L-206 Lake View,New Pune Road,Chennai,Delhi,female,+918598277703,022-90386343,cooking,MBA,IIT
+Rohit,Singh,40,G-81 Rakshak Society,New Pune Road,Hyderabad,Karnataka,male,+914271432406,022-26741677,cricket,B.Com,Mumbai University
+Anita,Kumar,20,N-32 Royal Apartments,MG Road,Mumbai,Tamil Nadu,female,+911982587475,022-74468258,cricket,B.Tech,IIT
+Rohit,Mehta,50,Z-156 Green Park,MG Road,Pune,Maharashtra,male,+913822129525,022-63606788,traveling,M.Sc,Pune University
+Rajesh,Iyer,53,K-118 Royal Apartments,New Pune Road,Mumbai,Karnataka,female,+913410638519,022-14322677,cooking,B.Sc,IIT
+Anita,Desai,48,T-682 Royal Apartments,New Pune Road,Chennai,Karnataka,other,+919711053668,022-45616132,traveling,B.Com,Pune University
+Deepika,Prasad,58,L-92 Rakshak Society,Ring Road,Chennai,Karnataka,female,+919416439098,022-89479286,cricket,B.Com,Anna University
+Rajesh,Desai,55,J-537 Green Park,Ring Road,Pune,Maharashtra,other,+912863689887,022-33596559,cricket,B.Sc,IIT
+Arjun,Desai,64,E-455 Rakshak Society,Main Street,Pune,Telangana,other,+914731248294,022-83154069,traveling,B.Tech,NIT
+Kavya,Patel,38,S-168 Lake View,Main Street,Pune,Delhi,male,+918862391755,022-42040183,cricket,M.Tech,NIT
+Deepika,Patel,21,P-850 Royal Apartments,New Pune Road,Kolkata,Tamil Nadu,male,+919662545598,022-46814128,music,M.Tech,Anna University
+Sneha,Prasad,37,J-215 Lake View,New Pune Road,Pune,Delhi,male,+912869217206,022-40882873,cricket,M.Sc,NIT
+Kavya,Sharma,23,F-594 Royal Apartments,MG Road,Mumbai,Karnataka,other,+919482783822,022-58216175,traveling,M.Sc,Anna University
+Arjun,Gupta,41,B-736 Green Park,Main Street,Chennai,Telangana,female,+917431542611,022-24160464,cricket,M.Tech,Anna University
+Deepika,Kumar,64,I-540 Lake View,Ring Road,Hyderabad,Karnataka,male,+913270285255,022-28322225,reading,M.Sc,IIT
+Priya,Reddy,69,S-533 Royal Apartments,New Pune Road,Kolkata,Delhi,other,+911073152645,022-26037813,cooking,B.Sc,NIT
+Rajesh,Singh,48,Y-256 Lake View,New Pune Road,Bangalore,Tamil Nadu,male,+917120627817,022-94844097,gaming,B.Com,IIT
+Amit,Iyer,78,Z-538 Lake View,MG Road,Pune,Maharashtra,female,+914963897423,022-36884471,music,B.Com,Mumbai University
+Arjun,Iyer,76,O-518 Royal Apartments,New Pune Road,Kolkata,Telangana,other,+916912003563,022-50513587,cricket,MBA,NIT
+Arjun,Prasad,51,P-723 Royal Apartments,Ring Road,Chennai,Telangana,male,+914762124887,022-79594630,cooking,B.Sc,Anna University
+Rajesh,Mehta,73,S-781 Royal Apartments,MG Road,Chennai,Delhi,female,+917014447407,022-35297046,cricket,M.Tech,Anna University
+Sneha,Kumar,23,T-276 Royal Apartments,Ring Road,Hyderabad,Karnataka,male,+911279359890,022-99749233,gaming,MBA,IIT
+Amit,Kumar,39,D-998 Royal Apartments,New Pune Road,Hyderabad,Telangana,female,+911951001218,022-62709087,reading,B.Sc,Pune University
+Priya,Singh,63,X-277 Lake View,Main Street,Pune,Delhi,male,+913995157220,022-18850231,music,B.Sc,Mumbai University
+Sneha,Reddy,24,W-997 Lake View,Main Street,Pune,Delhi,female,+912905995716,022-89910642,traveling,M.Tech,Mumbai University
+Anita,Reddy,49,S-412 Rakshak Society,Ring Road,Hyderabad,Delhi,female,+918302340902,022-56046760,gaming,M.Tech,NIT
+Priya,Patel,81,B-652 Royal Apartments,Ring Road,Chennai,Maharashtra,other,+916836576324,022-83449812,music,M.Sc,Mumbai University
+Kavya,Reddy,16,D-81 Royal Apartments,MG Road,Kolkata,Karnataka,female,+914046728760,022-17539830,traveling,B.Com,Anna University
+Rohit,Singh,60,L-412 Green Park,MG Road,Bangalore,Delhi,male,+918693232377,022-57645864,reading,M.Tech,IIT
+Kavya,Iyer,51,S-801 Rakshak Society,MG Road,Pune,Delhi,other,+911082290633,022-25502624,reading,B.Sc,NIT
+Deepika,Gupta,42,K-943 Royal Apartments,New Pune Road,Mumbai,Delhi,male,+916464192158,022-60376232,reading,B.Com,Pune University
+Vikram,Sharma,37,O-534 Rakshak Society,Main Street,Bangalore,Karnataka,male,+912499092160,022-30496016,cricket,M.Tech,NIT
+Deepika,Patel,49,S-966 Royal Apartments,MG Road,Chennai,West Bengal,female,+911255778746,022-22602343,cricket,M.Sc,Mumbai University
+Sneha,Singh,30,W-549 Royal Apartments,New Pune Road,Kolkata,Karnataka,female,+918338101562,022-43849855,music,B.Sc,NIT
+Kavya,Gupta,46,D-121 Green Park,New Pune Road,Kolkata,Maharashtra,male,+913538298216,022-81967944,cricket,B.Tech,IIT
+Kavya,Desai,35,Q-604 Green Park,MG Road,Pune,Maharashtra,female,+916951341996,022-17974527,cricket,M.Tech,Anna University
+Amit,Iyer,52,O-261 Green Park,MG Road,Pune,West Bengal,male,+911778914047,022-61293350,cooking,B.Sc,IIT
+Rajesh,Gupta,66,H-603 Royal Apartments,New Pune Road,Chennai,West Bengal,other,+912477318332,022-68853474,music,B.Com,Pune University
+Amit,Desai,81,O-519 Green Park,Main Street,Pune,Delhi,male,+917772704753,022-72083315,traveling,B.Com,Anna University
+Kavya,Singh,31,S-393 Royal Apartments,Ring Road,Delhi,Delhi,other,+911111083617,022-85415726,traveling,B.Com,Mumbai University
+Amit,Sharma,36,L-802 Green Park,Ring Road,Bangalore,Tamil Nadu,female,+913429060335,022-63079035,gaming,B.Tech,NIT
+Kavya,Desai,51,D-321 Royal Apartments,Main Street,Hyderabad,Telangana,other,+917443149614,022-46774598,music,M.Sc,IIT
+Vikram,Patel,27,N-149 Green Park,New Pune Road,Kolkata,Telangana,other,+917496833347,022-31036773,cooking,B.Com,Mumbai University
+Sneha,Kumar,56,Q-777 Rakshak Society,New Pune Road,Bangalore,Tamil Nadu,male,+911254926176,022-52124065,music,B.Sc,Mumbai University
+Rajesh,Iyer,55,F-516 Lake View,Ring Road,Chennai,Maharashtra,female,+916819329290,022-65222194,cooking,B.Com,Anna University
+Priya,Desai,35,Y-244 Rakshak Society,New Pune Road,Pune,Telangana,male,+918268986017,022-78310478,traveling,MBA,Pune University
+Arjun,Patel,45,L-961 Rakshak Society,Ring Road,Kolkata,Karnataka,male,+911309157113,022-38218086,cricket,B.Com,Mumbai University
+Rohit,Kumar,81,S-671 Lake View,New Pune Road,Pune,Karnataka,male,+918784063122,022-65544214,cricket,B.Com,Anna University
+Rajesh,Prasad,33,V-84 Lake View,New Pune Road,Chennai,Telangana,other,+916293062257,022-89808567,cricket,M.Tech,Mumbai University
+Arjun,Desai,58,F-182 Rakshak Society,Ring Road,Kolkata,Tamil Nadu,male,+914637639867,022-68707031,gaming,B.Tech,IIT
+Amit,Reddy,53,D-173 Rakshak Society,Ring Road,Hyderabad,Tamil Nadu,male,+918485670621,022-78468481,gaming,MBA,Anna University
+Priya,Mehta,81,F-459 Rakshak Society,New Pune Road,Bangalore,Tamil Nadu,male,+912435840574,022-65900052,traveling,B.Sc,IIT
+Anita,Sharma,56,Y-440 Rakshak Society,New Pune Road,Mumbai,Maharashtra,male,+916569255997,022-78195658,traveling,M.Tech,Pune University
+Kavya,Sharma,84,M-421 Green Park,Ring Road,Pune,Tamil Nadu,female,+917939206104,022-95830047,cricket,MBA,Anna University
+Rohit,Singh,73,G-652 Royal Apartments,Ring Road,Chennai,West Bengal,male,+913625958367,022-76592907,music,M.Tech,IIT
+Rajesh,Reddy,57,K-251 Rakshak Society,Main Street,Pune,West Bengal,male,+918996787326,022-68248464,cricket,B.Com,Pune University
+Rohit,Prasad,79,R-966 Royal Apartments,Ring Road,Delhi,Tamil Nadu,other,+917499838015,022-99519334,reading,M.Sc,IIT
+Anita,Mehta,83,O-146 Lake View,Ring Road,Kolkata,Delhi,female,+911972097006,022-89204499,traveling,B.Tech,Anna University
+Kavya,Singh,57,A-492 Lake View,Ring Road,Delhi,Tamil Nadu,other,+911110991543,022-79546332,reading,M.Sc,IIT
+Sneha,Gupta,53,O-2 Royal Apartments,Ring Road,Mumbai,Telangana,other,+914692211205,022-56739373,reading,B.Com,Anna University
+Priya,Reddy,19,P-407 Royal Apartments,MG Road,Mumbai,Maharashtra,male,+918165658612,022-67364569,gaming,B.Com,NIT
+Deepika,Singh,31,P-520 Lake View,New Pune Road,Pune,Karnataka,male,+916805193947,022-49540866,reading,M.Tech,Pune University
+Amit,Reddy,40,E-723 Lake View,New Pune Road,Bangalore,Karnataka,female,+918699227260,022-61482118,cricket,MBA,Mumbai University
+Priya,Reddy,55,X-858 Rakshak Society,Ring Road,Kolkata,Telangana,other,+916565170289,022-19733911,gaming,M.Sc,Pune University
+Amit,Mehta,59,B-900 Lake View,MG Road,Kolkata,West Bengal,other,+916877613473,022-72266244,cricket,B.Tech,IIT
+Priya,Mehta,40,T-857 Royal Apartments,Ring Road,Bangalore,Maharashtra,male,+911675830904,022-66657874,music,M.Sc,Pune University
+Sneha,Reddy,64,S-697 Rakshak Society,New Pune Road,Chennai,Karnataka,male,+912449387588,022-41003763,traveling,B.Sc,NIT
+Deepika,Mehta,61,N-989 Green Park,MG Road,Delhi,Tamil Nadu,female,+917445859700,022-92562515,reading,B.Tech,Pune University
+Vikram,Kumar,34,B-237 Lake View,Main Street,Hyderabad,Karnataka,female,+912354892088,022-83985339,traveling,B.Sc,IIT
+Rajesh,Singh,58,S-215 Rakshak Society,New Pune Road,Hyderabad,Telangana,female,+915446650913,022-52191593,traveling,B.Tech,IIT
+Rohit,Gupta,26,F-986 Lake View,Ring Road,Pune,Tamil Nadu,other,+919589834960,022-98988817,reading,B.Tech,Pune University
+Vikram,Kumar,64,S-767 Green Park,New Pune Road,Kolkata,Tamil Nadu,male,+915502673580,022-40733394,music,B.Tech,IIT
+Rajesh,Iyer,73,H-145 Rakshak Society,New Pune Road,Hyderabad,West Bengal,other,+915991988642,022-97353996,traveling,B.Com,IIT
+Deepika,Prasad,65,A-432 Royal Apartments,Main Street,Delhi,Telangana,other,+918253966674,022-66538613,gaming,M.Tech,Mumbai University
+Deepika,Gupta,18,F-522 Royal Apartments,MG Road,Delhi,West Bengal,female,+911553601624,022-92071575,gaming,M.Tech,IIT
+Sneha,Sharma,34,W-934 Lake View,Main Street,Delhi,Tamil Nadu,other,+912325788006,022-71355404,cooking,B.Com,Mumbai University
+Sneha,Kumar,29,N-474 Rakshak Society,New Pune Road,Hyderabad,Delhi,female,+913360459713,022-68789936,cricket,B.Com,NIT
+Sneha,Iyer,45,O-398 Rakshak Society,MG Road,Delhi,Maharashtra,female,+917618685264,022-84837140,reading,B.Tech,IIT
+Priya,Reddy,29,V-555 Rakshak Society,Ring Road,Chennai,Maharashtra,female,+916326428027,022-60808005,cricket,MBA,Anna University
+Priya,Kumar,44,U-624 Green Park,Main Street,Chennai,Maharashtra,other,+917990699523,022-90629176,cooking,B.Com,NIT
+Deepika,Sharma,81,C-136 Green Park,New Pune Road,Hyderabad,Maharashtra,male,+914409075101,022-47428081,traveling,B.Com,IIT
+Rajesh,Singh,47,Z-268 Lake View,Ring Road,Chennai,Telangana,male,+918817040101,022-46211656,gaming,B.Tech,Mumbai University
+Deepika,Iyer,32,A-581 Green Park,New Pune Road,Hyderabad,Maharashtra,other,+914579995380,022-55500512,cricket,B.Com,NIT
+Amit,Patel,18,O-718 Rakshak Society,MG Road,Mumbai,Maharashtra,other,+916129880816,022-73220244,cricket,MBA,Pune University
+Vikram,Desai,59,P-400 Rakshak Society,MG Road,Delhi,Karnataka,male,+919511349739,022-20596599,gaming,MBA,Anna University
+Rajesh,Mehta,25,W-944 Royal Apartments,Ring Road,Delhi,Karnataka,other,+912893876426,022-12556617,gaming,B.Com,Mumbai University
+Rohit,Kumar,41,D-418 Royal Apartments,New Pune Road,Pune,Delhi,female,+916729500538,022-36271790,cricket,M.Tech,NIT
+Kavya,Prasad,35,P-348 Royal Apartments,Main Street,Chennai,Maharashtra,male,+916053038971,022-47590212,cooking,B.Com,NIT
+Priya,Desai,51,S-1 Rakshak Society,Main Street,Pune,Tamil Nadu,other,+917272895111,022-25560677,cooking,M.Tech,NIT
+Amit,Mehta,43,N-462 Royal Apartments,New Pune Road,Mumbai,Delhi,other,+913762520986,022-49245179,gaming,B.Com,Pune University
+Priya,Iyer,82,Y-345 Green Park,MG Road,Pune,Telangana,other,+916314658523,022-43531307,traveling,B.Sc,Pune University
+Deepika,Kumar,67,R-325 Royal Apartments,New Pune Road,Kolkata,Tamil Nadu,female,+916700322576,022-40813716,cooking,M.Tech,Pune University
+Vikram,Singh,66,S-993 Green Park,New Pune Road,Kolkata,Tamil Nadu,other,+914013211736,022-32166017,cooking,MBA,Anna University
+Vikram,Prasad,32,Q-911 Lake View,New Pune Road,Mumbai,Maharashtra,other,+919491212141,022-17332966,cricket,M.Sc,NIT
+Deepika,Prasad,53,W-85 Lake View,MG Road,Bangalore,Tamil Nadu,female,+911036442594,022-50930798,music,M.Sc,NIT
+Amit,Singh,17,A-443 Lake View,MG Road,Kolkata,Karnataka,female,+914412011616,022-46538933,gaming,M.Tech,IIT
+Rohit,Mehta,82,A-840 Green Park,Ring Road,Hyderabad,Karnataka,other,+911645611624,022-40871536,cricket,B.Com,Pune University
+Arjun,Reddy,33,C-719 Rakshak Society,MG Road,Chennai,Karnataka,other,+915868357795,022-13127652,music,B.Tech,Mumbai University
+Deepika,Kumar,17,C-78 Royal Apartments,New Pune Road,Mumbai,Telangana,female,+919588473287,022-49461097,traveling,M.Sc,Anna University
+Kavya,Singh,36,G-832 Green Park,New Pune Road,Mumbai,Telangana,other,+911926729225,022-84096788,music,M.Sc,Mumbai University
+Priya,Desai,69,H-647 Royal Apartments,Main Street,Kolkata,Delhi,other,+912337671727,022-79810476,gaming,MBA,NIT
+Kavya,Singh,28,O-782 Lake View,Ring Road,Delhi,West Bengal,female,+913421788668,022-50712954,reading,B.Sc,Anna University
+Arjun,Sharma,65,A-694 Lake View,Main Street,Kolkata,Maharashtra,male,+919893331731,022-40656549,reading,MBA,Pune University
+Sneha,Singh,47,H-583 Lake View,Ring Road,Kolkata,Delhi,female,+913253144300,022-13957139,reading,B.Sc,IIT
+Rohit,Desai,79,J-470 Royal Apartments,Main Street,Kolkata,Tamil Nadu,other,+916155873284,022-70409826,music,M.Sc,Mumbai University
+Rohit,Patel,58,F-574 Royal Apartments,New Pune Road,Pune,Telangana,male,+919016526237,022-31014761,music,B.Tech,Pune University
+Sneha,Mehta,17,K-929 Royal Apartments,MG Road,Delhi,Karnataka,other,+911588560317,022-94396267,gaming,M.Sc,Mumbai University
+Priya,Mehta,80,D-902 Green Park,Ring Road,Kolkata,Karnataka,male,+912596882319,022-57684017,cricket,MBA,Mumbai University
+Deepika,Patel,43,A-931 Royal Apartments,MG Road,Chennai,Telangana,other,+917088070474,022-79835784,traveling,B.Sc,Pune University
+Priya,Mehta,26,F-155 Lake View,Main Street,Bangalore,Karnataka,male,+915577965086,022-20710474,cricket,B.Tech,NIT
+Arjun,Iyer,25,X-881 Royal Apartments,Ring Road,Mumbai,Delhi,other,+912184784373,022-59921672,reading,M.Sc,Anna University
+Amit,Sharma,59,N-4 Rakshak Society,MG Road,Mumbai,Delhi,other,+912770097493,022-40520777,reading,B.Com,NIT
+Kavya,Iyer,51,Y-650 Lake View,Main Street,Mumbai,West Bengal,female,+914833486452,022-12756569,gaming,M.Sc,Anna University
+Priya,Reddy,60,W-481 Royal Apartments,Main Street,Delhi,Maharashtra,other,+918452056432,022-31076574,traveling,M.Sc,Mumbai University
+Anita,Iyer,29,O-308 Lake View,New Pune Road,Hyderabad,Delhi,male,+915795009046,022-48628956,reading,M.Sc,Anna University
+Anita,Mehta,24,I-45 Royal Apartments,New Pune Road,Bangalore,West Bengal,other,+911191235073,022-98488148,reading,B.Com,Mumbai University
+Deepika,Gupta,54,P-789 Royal Apartments,Main Street,Pune,Maharashtra,male,+918729995363,022-70694220,traveling,M.Sc,Mumbai University
+Arjun,Reddy,34,A-67 Green Park,New Pune Road,Chennai,Maharashtra,male,+917179103172,022-39829874,traveling,B.Com,Pune University
+Rajesh,Singh,47,G-281 Royal Apartments,MG Road,Bangalore,West Bengal,male,+913495942239,022-62724618,music,B.Tech,NIT
+Vikram,Desai,58,X-453 Royal Apartments,Ring Road,Mumbai,Delhi,female,+911612064093,022-48698631,reading,B.Com,Anna University
+Kavya,Kumar,47,W-941 Rakshak Society,New Pune Road,Kolkata,Maharashtra,other,+919913433562,022-57317553,reading,B.Com,Pune University
+Arjun,Patel,84,V-192 Rakshak Society,Main Street,Delhi,Telangana,male,+919112710405,022-72766335,gaming,B.Sc,IIT
+Rajesh,Iyer,18,B-22 Rakshak Society,Main Street,Hyderabad,Maharashtra,other,+914707763145,022-10503328,music,MBA,IIT
+Arjun,Desai,82,L-74 Royal Apartments,Ring Road,Hyderabad,Delhi,female,+919012445781,022-31408852,gaming,M.Tech,NIT
+Priya,Desai,32,I-862 Green Park,MG Road,Bangalore,Maharashtra,other,+914755431211,022-21707056,cricket,B.Sc,NIT
+Amit,Kumar,75,V-823 Royal Apartments,Main Street,Chennai,Delhi,female,+911089763962,022-29774625,reading,M.Sc,Mumbai University
+Priya,Mehta,84,A-990 Green Park,Main Street,Delhi,Karnataka,male,+917562642094,022-33415702,reading,M.Tech,IIT
+Vikram,Kumar,30,K-22 Royal Apartments,Ring Road,Kolkata,Telangana,other,+911134796232,022-41345395,traveling,M.Tech,Anna University
+Arjun,Reddy,18,W-732 Lake View,New Pune Road,Kolkata,West Bengal,male,+915297608737,022-79579652,gaming,B.Tech,Mumbai University
+Sneha,Patel,84,K-243 Green Park,Ring Road,Delhi,Tamil Nadu,male,+917108653531,022-84810257,music,M.Sc,NIT
+Vikram,Sharma,62,E-391 Royal Apartments,Main Street,Chennai,Maharashtra,other,+912938077099,022-52140761,gaming,MBA,NIT
+Kavya,Patel,53,H-757 Royal Apartments,Ring Road,Hyderabad,Delhi,male,+913311903802,022-88529391,cricket,B.Tech,IIT
+Sneha,Patel,84,M-206 Lake View,MG Road,Bangalore,Tamil Nadu,female,+916961675761,022-31545850,music,M.Sc,NIT
+Sneha,Kumar,67,O-645 Green Park,Ring Road,Pune,Tamil Nadu,female,+918497148449,022-82340297,cooking,M.Sc,Anna University
+Anita,Gupta,15,S-987 Green Park,Main Street,Mumbai,Karnataka,male,+915970057995,022-77402820,cricket,M.Sc,NIT
+Deepika,Desai,60,M-27 Green Park,MG Road,Chennai,Tamil Nadu,male,+918429037652,022-26162870,cricket,B.Com,NIT
+Kavya,Mehta,38,A-267 Rakshak Society,MG Road,Kolkata,Delhi,female,+919494036577,022-30503463,traveling,B.Com,IIT
+Arjun,Singh,25,H-382 Royal Apartments,MG Road,Mumbai,Telangana,male,+912575379060,022-82300485,cooking,MBA,IIT
+Rajesh,Iyer,64,O-115 Green Park,New Pune Road,Chennai,West Bengal,other,+911931624604,022-45257677,gaming,MBA,IIT
+Arjun,Patel,73,K-672 Lake View,Main Street,Chennai,Maharashtra,male,+918351558247,022-30126221,gaming,M.Tech,Anna University
+Anita,Kumar,16,G-451 Green Park,MG Road,Hyderabad,West Bengal,female,+918645687160,022-77939076,cooking,M.Tech,NIT
+Amit,Desai,82,L-728 Green Park,Ring Road,Delhi,Maharashtra,other,+914523351838,022-52421675,cooking,B.Com,Pune University
+Kavya,Singh,55,L-881 Green Park,Main Street,Bangalore,West Bengal,other,+913223337213,022-79543156,reading,M.Tech,IIT
+Rajesh,Mehta,42,U-158 Green Park,Main Street,Chennai,Telangana,female,+918427347450,022-71383135,traveling,M.Sc,Mumbai University
+Amit,Gupta,76,Q-807 Lake View,New Pune Road,Bangalore,West Bengal,male,+916219259468,022-77785659,traveling,M.Sc,Pune University
+Kavya,Prasad,76,Y-687 Green Park,Main Street,Hyderabad,West Bengal,other,+911230974095,022-84658108,music,B.Com,Mumbai University
+Vikram,Mehta,56,I-606 Green Park,Ring Road,Pune,Maharashtra,other,+914669618700,022-46927867,reading,MBA,Anna University
+Vikram,Desai,74,W-233 Green Park,MG Road,Pune,Karnataka,other,+914486783653,022-27753183,cooking,MBA,IIT
+Amit,Sharma,25,I-959 Green Park,New Pune Road,Pune,Karnataka,other,+918414484089,022-22266460,music,B.Tech,Mumbai University
+Kavya,Iyer,21,M-890 Green Park,Ring Road,Hyderabad,Maharashtra,other,+912004972902,022-24152939,cricket,MBA,IIT
+Rajesh,Gupta,58,M-512 Green Park,Main Street,Mumbai,Telangana,other,+914441731482,022-90936883,reading,B.Sc,IIT
+Vikram,Mehta,21,T-883 Royal Apartments,New Pune Road,Delhi,Tamil Nadu,other,+918862666441,022-12562423,gaming,M.Tech,Mumbai University
+Amit,Mehta,35,H-221 Rakshak Society,Ring Road,Kolkata,Delhi,female,+915883749706,022-29781605,cooking,B.Sc,IIT
+Kavya,Kumar,36,Y-521 Rakshak Society,New Pune Road,Hyderabad,Maharashtra,female,+918394590002,022-40615314,reading,B.Tech,Mumbai University
+Amit,Singh,18,E-557 Royal Apartments,New Pune Road,Hyderabad,Telangana,other,+917715705987,022-50003872,traveling,B.Sc,IIT
+Kavya,Sharma,73,X-287 Green Park,Ring Road,Kolkata,Delhi,female,+917731833544,022-24252550,gaming,MBA,Pune University
+Sneha,Reddy,19,N-925 Royal Apartments,Main Street,Kolkata,Maharashtra,other,+916007088974,022-95478608,gaming,B.Tech,Mumbai University
+Amit,Prasad,40,C-57 Rakshak Society,New Pune Road,Bangalore,West Bengal,male,+918776732663,022-72168056,music,MBA,Anna University
+Rohit,Reddy,67,E-660 Royal Apartments,MG Road,Chennai,Karnataka,female,+913041657394,022-59299057,cooking,M.Tech,IIT
+Amit,Iyer,20,E-619 Royal Apartments,Ring Road,Pune,Tamil Nadu,male,+919170579389,022-76090392,cricket,M.Tech,Anna University
+Deepika,Gupta,47,O-637 Rakshak Society,New Pune Road,Chennai,Delhi,other,+919550552446,022-86664945,music,M.Sc,Anna University
+Vikram,Iyer,57,T-599 Royal Apartments,Ring Road,Mumbai,Tamil Nadu,other,+915114908605,022-40707878,music,B.Sc,NIT
+Anita,Iyer,48,G-908 Lake View,Main Street,Bangalore,Delhi,other,+915277873584,022-95195780,music,B.Sc,NIT
+Priya,Patel,18,A-748 Lake View,New Pune Road,Hyderabad,Telangana,female,+918918056554,022-21032070,traveling,B.Com,NIT
+Kavya,Kumar,65,Z-242 Rakshak Society,New Pune Road,Pune,Telangana,other,+912676121212,022-18594996,reading,M.Tech,Pune University
+Anita,Iyer,72,J-614 Green Park,New Pune Road,Mumbai,West Bengal,other,+911041254838,022-14838833,music,M.Sc,Mumbai University
+Arjun,Gupta,71,U-699 Green Park,Ring Road,Hyderabad,Delhi,male,+914774144787,022-37857853,traveling,B.Tech,Anna University
+Vikram,Iyer,28,D-696 Royal Apartments,New Pune Road,Kolkata,Karnataka,other,+912268025956,022-92891996,gaming,M.Tech,Anna University
+Sneha,Desai,55,D-455 Green Park,Main Street,Pune,Tamil Nadu,male,+917560991083,022-13698151,cooking,B.Tech,NIT
+Sneha,Iyer,49,H-436 Lake View,Ring Road,Delhi,Maharashtra,other,+913217696032,022-73359605,cooking,MBA,Anna University
+Sneha,Singh,23,P-276 Lake View,Ring Road,Delhi,Karnataka,male,+911423009089,022-11291347,reading,MBA,Mumbai University
+Rajesh,Prasad,64,M-465 Rakshak Society,Main Street,Delhi,West Bengal,female,+918462719735,022-85564196,music,B.Sc,Mumbai University
+Vikram,Patel,42,M-818 Rakshak Society,Main Street,Hyderabad,Telangana,male,+913548335154,022-19338180,cricket,B.Com,IIT
+Anita,Patel,51,T-171 Lake View,Ring Road,Chennai,Telangana,male,+916571095626,022-12014452,traveling,M.Sc,Anna University
+Rajesh,Mehta,37,H-200 Green Park,Ring Road,Hyderabad,Delhi,male,+918438455832,022-95593184,music,B.Tech,NIT
+Arjun,Singh,39,S-219 Royal Apartments,New Pune Road,Kolkata,Delhi,other,+918686199178,022-74859524,gaming,B.Tech,Anna University
+Deepika,Sharma,51,F-503 Green Park,New Pune Road,Pune,Karnataka,female,+912397018866,022-29875861,cooking,B.Sc,IIT
+Deepika,Iyer,35,L-603 Royal Apartments,Ring Road,Bangalore,Telangana,female,+919713207842,022-49885252,traveling,M.Tech,NIT
+Rohit,Desai,32,M-524 Royal Apartments,MG Road,Mumbai,West Bengal,male,+912633929559,022-82734639,cooking,M.Sc,Pune University
+Anita,Kumar,35,B-263 Royal Apartments,Ring Road,Bangalore,Tamil Nadu,male,+916318532919,022-69705449,reading,B.Com,Pune University
+Arjun,Mehta,47,N-862 Royal Apartments,New Pune Road,Mumbai,Maharashtra,male,+916578876213,022-87593232,gaming,M.Sc,Anna University
+Deepika,Reddy,61,O-204 Lake View,New Pune Road,Mumbai,Telangana,male,+915408873229,022-43182724,gaming,B.Tech,Anna University
+Rajesh,Kumar,24,J-366 Royal Apartments,MG Road,Chennai,Telangana,male,+914269349514,022-80998530,music,B.Com,Mumbai University
+Anita,Reddy,66,F-396 Lake View,New Pune Road,Chennai,Tamil Nadu,female,+919364443293,022-85546462,cooking,B.Sc,Mumbai University
+Kavya,Prasad,46,C-317 Royal Apartments,Ring Road,Mumbai,Delhi,other,+912740863321,022-61701735,cooking,B.Sc,Pune University
+Sneha,Gupta,65,C-852 Royal Apartments,Main Street,Delhi,West Bengal,female,+914090497123,022-14774641,reading,M.Sc,Mumbai University
+Priya,Patel,19,A-500 Royal Apartments,Main Street,Mumbai,Maharashtra,female,+915796475558,022-60020178,cricket,M.Sc,IIT
+Anita,Mehta,65,R-339 Royal Apartments,Ring Road,Pune,Delhi,other,+919931241269,022-64852993,traveling,B.Sc,Anna University
+Kavya,Prasad,22,J-722 Royal Apartments,New Pune Road,Chennai,Telangana,other,+911157902932,022-32919397,traveling,M.Tech,NIT
+Vikram,Sharma,73,C-291 Rakshak Society,Main Street,Chennai,Delhi,male,+916293134596,022-58263444,cricket,B.Com,Mumbai University
+Priya,Sharma,16,G-477 Lake View,Ring Road,Chennai,Tamil Nadu,other,+914074087857,022-27849884,music,MBA,Anna University
+Priya,Singh,80,T-171 Lake View,MG Road,Kolkata,Delhi,male,+914973207628,022-42679177,cricket,B.Sc,Pune University
+Amit,Sharma,48,B-273 Royal Apartments,New Pune Road,Kolkata,Delhi,male,+912090946382,022-57534448,gaming,M.Sc,Mumbai University
+Amit,Desai,73,Z-540 Rakshak Society,MG Road,Kolkata,West Bengal,other,+914181116151,022-33450755,traveling,B.Com,Pune University
+Rajesh,Patel,74,O-939 Lake View,New Pune Road,Pune,Maharashtra,other,+917456906948,022-42834884,cooking,MBA,Mumbai University
+Anita,Mehta,71,P-266 Lake View,Main Street,Hyderabad,Delhi,female,+916925270584,022-88220371,cricket,MBA,Pune University
+Priya,Patel,46,K-906 Green Park,Ring Road,Hyderabad,Telangana,male,+913297179702,022-98132374,cooking,MBA,Anna University
+Deepika,Desai,70,S-544 Royal Apartments,MG Road,Kolkata,Maharashtra,other,+916453242346,022-58944670,music,M.Sc,Pune University
+Sneha,Desai,15,T-557 Rakshak Society,New Pune Road,Bangalore,Tamil Nadu,male,+912939136785,022-60872671,reading,M.Tech,Anna University
+Rajesh,Desai,29,W-230 Royal Apartments,MG Road,Chennai,Tamil Nadu,female,+915301529801,022-24440511,music,MBA,Mumbai University
+Sneha,Patel,84,G-199 Royal Apartments,Main Street,Hyderabad,Telangana,other,+919075084047,022-35171398,reading,MBA,Mumbai University
+Priya,Singh,67,T-272 Rakshak Society,Ring Road,Kolkata,Karnataka,female,+913743402052,022-38773712,gaming,B.Sc,Pune University
+Rajesh,Prasad,15,N-835 Green Park,New Pune Road,Pune,West Bengal,male,+917237264887,022-38390352,cooking,B.Sc,NIT
+Amit,Gupta,32,C-298 Lake View,Main Street,Hyderabad,Maharashtra,male,+912738927783,022-87875395,cricket,B.Tech,Pune University
+Rohit,Mehta,32,V-734 Royal Apartments,MG Road,Kolkata,West Bengal,female,+918317907007,022-33751917,gaming,B.Sc,IIT
+Vikram,Patel,82,Z-678 Rakshak Society,New Pune Road,Hyderabad,West Bengal,male,+916739460778,022-24209192,cricket,M.Tech,IIT
+Deepika,Prasad,30,F-883 Lake View,New Pune Road,Delhi,Karnataka,other,+911033898631,022-88640396,reading,MBA,IIT
+Anita,Mehta,76,B-762 Green Park,New Pune Road,Mumbai,Karnataka,female,+917486721562,022-96653440,music,B.Com,Pune University
+Rajesh,Gupta,38,Y-649 Green Park,Ring Road,Pune,Maharashtra,other,+917069388512,022-85442404,cooking,B.Tech,IIT
+Vikram,Mehta,79,P-265 Green Park,New Pune Road,Pune,Tamil Nadu,female,+918038748303,022-32319310,gaming,M.Sc,Anna University
+Rajesh,Gupta,26,Q-190 Green Park,Main Street,Pune,Karnataka,female,+912958413780,022-55784108,cooking,M.Sc,NIT
+Amit,Prasad,18,U-581 Rakshak Society,MG Road,Mumbai,Tamil Nadu,female,+911644796718,022-85578595,cooking,B.Tech,NIT
+Rajesh,Prasad,82,U-449 Rakshak Society,MG Road,Bangalore,Karnataka,female,+915657272245,022-75309983,cricket,B.Com,Mumbai University
+Arjun,Iyer,30,F-409 Green Park,New Pune Road,Hyderabad,Telangana,male,+918268755804,022-67959362,cricket,M.Sc,IIT
+Deepika,Sharma,71,F-841 Lake View,Main Street,Pune,Karnataka,other,+912168426860,022-43820230,gaming,B.Com,IIT
+Anita,Prasad,44,O-297 Royal Apartments,Ring Road,Chennai,Karnataka,male,+912505779295,022-66305967,cricket,M.Tech,Anna University
+Sneha,Kumar,59,S-49 Rakshak Society,MG Road,Hyderabad,Delhi,male,+912897714311,022-53344401,cooking,M.Tech,Anna University
+Kavya,Reddy,57,H-202 Green Park,New Pune Road,Pune,Delhi,male,+912919921986,022-50026101,reading,B.Sc,IIT
+Sneha,Kumar,37,W-565 Lake View,New Pune Road,Hyderabad,Maharashtra,other,+914169819143,022-51322496,reading,M.Sc,Mumbai University
+Anita,Singh,77,D-900 Lake View,Main Street,Mumbai,Telangana,other,+914502200541,022-59491059,traveling,M.Tech,Mumbai University
+Arjun,Singh,21,J-624 Rakshak Society,Main Street,Chennai,Maharashtra,other,+917551629703,022-27005016,traveling,M.Sc,Pune University
+Deepika,Reddy,16,L-786 Green Park,Main Street,Chennai,Maharashtra,other,+912795158052,022-80797452,reading,B.Com,Pune University
+Vikram,Singh,67,O-162 Royal Apartments,Ring Road,Chennai,Telangana,male,+917168307440,022-13058436,cricket,M.Sc,NIT
+Sneha,Singh,52,M-967 Rakshak Society,New Pune Road,Bangalore,Tamil Nadu,male,+914712348092,022-22259650,music,B.Com,Anna University
+Kavya,Kumar,36,H-100 Green Park,Ring Road,Bangalore,West Bengal,female,+919651683247,022-82674682,traveling,B.Tech,Pune University
+Sneha,Sharma,44,E-812 Rakshak Society,MG Road,Hyderabad,Tamil Nadu,female,+915022006224,022-61210209,gaming,M.Sc,Pune University
+Rohit,Iyer,31,R-861 Rakshak Society,New Pune Road,Chennai,Delhi,female,+917882092623,022-39647378,cooking,MBA,IIT
+Amit,Prasad,41,I-305 Rakshak Society,New Pune Road,Hyderabad,Maharashtra,male,+917665075492,022-27343995,cricket,B.Com,NIT
+Sneha,Desai,65,X-938 Royal Apartments,Main Street,Mumbai,Karnataka,other,+912526824624,022-23583831,gaming,B.Com,NIT
+Rohit,Reddy,76,D-306 Lake View,MG Road,Chennai,Delhi,male,+916156379836,022-37939826,reading,M.Sc,IIT
+Rajesh,Reddy,36,O-73 Royal Apartments,New Pune Road,Kolkata,Maharashtra,male,+917987463226,022-91657667,traveling,B.Com,Mumbai University
+Anita,Sharma,67,U-811 Royal Apartments,Main Street,Hyderabad,Tamil Nadu,female,+918581229337,022-81517040,gaming,M.Tech,Mumbai University
+Kavya,Gupta,32,H-273 Green Park,Main Street,Pune,West Bengal,female,+918690792416,022-84029756,traveling,MBA,IIT
+Anita,Reddy,45,Q-674 Green Park,Ring Road,Kolkata,Karnataka,female,+919762730975,022-68000193,gaming,B.Tech,IIT
+Anita,Kumar,57,C-544 Rakshak Society,Main Street,Delhi,Tamil Nadu,male,+917802870136,022-69866028,reading,MBA,Anna University
+Rohit,Prasad,16,C-573 Lake View,Ring Road,Bangalore,Karnataka,female,+916928014031,022-45319453,reading,M.Sc,IIT
+Vikram,Mehta,68,H-126 Lake View,New Pune Road,Hyderabad,Karnataka,other,+918568069696,022-88545581,cooking,B.Com,NIT
+Priya,Gupta,53,W-671 Royal Apartments,Ring Road,Hyderabad,West Bengal,female,+918567916022,022-21600730,cricket,B.Com,Pune University
+Vikram,Patel,66,L-487 Rakshak Society,Ring Road,Chennai,Delhi,female,+913409633622,022-40090915,cooking,B.Tech,Mumbai University
+Arjun,Prasad,80,T-297 Rakshak Society,Ring Road,Hyderabad,Maharashtra,female,+918221753972,022-85333116,gaming,B.Com,Anna University
+Priya,Reddy,39,V-18 Lake View,Ring Road,Hyderabad,Maharashtra,other,+913484834429,022-93184017,reading,M.Tech,Pune University
+Amit,Patel,69,B-876 Royal Apartments,MG Road,Delhi,Karnataka,other,+917355257410,022-27630195,traveling,B.Com,NIT
+Deepika,Prasad,43,O-330 Green Park,Ring Road,Hyderabad,Telangana,male,+917897651359,022-28257291,traveling,B.Com,Mumbai University
+Arjun,Prasad,69,Q-659 Royal Apartments,Ring Road,Bangalore,Tamil Nadu,male,+913866505852,022-18438866,music,M.Sc,NIT
+Kavya,Gupta,53,H-444 Lake View,Main Street,Chennai,West Bengal,other,+917885603811,022-23683493,cooking,B.Sc,NIT
+Amit,Desai,40,D-979 Rakshak Society,MG Road,Bangalore,Telangana,other,+917546630305,022-55691879,cooking,MBA,NIT
+Arjun,Prasad,76,Y-909 Lake View,MG Road,Hyderabad,Maharashtra,other,+915809865402,022-78493679,cooking,MBA,Pune University
+Sneha,Mehta,49,T-193 Rakshak Society,New Pune Road,Delhi,Maharashtra,other,+913874327733,022-49642907,reading,B.Com,Anna University
+Sneha,Patel,54,Z-381 Green Park,Main Street,Delhi,Maharashtra,other,+912665877024,022-99172453,traveling,MBA,NIT
+Rohit,Singh,52,G-323 Lake View,MG Road,Pune,Delhi,other,+916180483537,022-82480614,reading,B.Sc,Mumbai University
+Amit,Kumar,33,S-6 Lake View,MG Road,Mumbai,Delhi,other,+913938745271,022-35809994,cricket,M.Tech,IIT
+Arjun,Desai,41,X-903 Green Park,New Pune Road,Pune,Maharashtra,other,+912014645819,022-10884643,cricket,M.Sc,Anna University
+Priya,Sharma,44,O-933 Rakshak Society,Main Street,Bangalore,Telangana,male,+914869452977,022-41365142,cricket,MBA,IIT
+Priya,Mehta,71,S-154 Green Park,MG Road,Delhi,West Bengal,male,+918695837514,022-28837271,music,MBA,Mumbai University
+Deepika,Prasad,36,M-52 Royal Apartments,Ring Road,Kolkata,West Bengal,other,+911787814652,022-67096402,cricket,M.Tech,Pune University
+Kavya,Iyer,18,L-458 Green Park,Main Street,Kolkata,Maharashtra,male,+914909211612,022-82282738,traveling,B.Com,Mumbai University
+Sneha,Kumar,51,N-858 Royal Apartments,Ring Road,Kolkata,Delhi,female,+914470716512,022-67382379,music,B.Sc,Mumbai University
+Kavya,Desai,67,R-848 Royal Apartments,New Pune Road,Chennai,Delhi,other,+915995670968,022-67809498,gaming,M.Tech,Pune University
+Deepika,Kumar,73,S-971 Lake View,New Pune Road,Delhi,Karnataka,male,+917652711617,022-53407861,reading,MBA,Mumbai University
+Deepika,Prasad,19,F-370 Lake View,Main Street,Kolkata,Telangana,male,+916829795663,022-17570744,cooking,B.Tech,Mumbai University
+Vikram,Mehta,55,R-354 Royal Apartments,Main Street,Pune,Delhi,female,+911134427034,022-41383452,cricket,B.Tech,Anna University
+Anita,Gupta,68,V-961 Lake View,Main Street,Pune,Tamil Nadu,female,+914655649948,022-33315280,reading,M.Tech,IIT
+Arjun,Sharma,37,P-999 Green Park,Ring Road,Delhi,Delhi,other,+916607231736,022-22025452,gaming,M.Sc,NIT
+Rajesh,Sharma,15,T-177 Lake View,MG Road,Chennai,Delhi,male,+915191506140,022-39609133,music,B.Sc,IIT
+Rohit,Desai,53,S-660 Lake View,New Pune Road,Chennai,Karnataka,male,+912754609317,022-76309749,cricket,MBA,NIT
+Anita,Sharma,44,D-967 Green Park,Ring Road,Hyderabad,Tamil Nadu,male,+916664450772,022-18645968,traveling,MBA,IIT
+Vikram,Desai,83,Z-663 Rakshak Society,Ring Road,Kolkata,Telangana,male,+915065280095,022-95981651,gaming,M.Tech,Anna University
+Arjun,Desai,57,L-393 Rakshak Society,Main Street,Delhi,Karnataka,female,+912221750456,022-47367332,cooking,B.Com,Mumbai University
+Rohit,Singh,63,O-137 Lake View,Main Street,Hyderabad,West Bengal,male,+913487393043,022-38170658,gaming,B.Sc,IIT
+Arjun,Kumar,70,E-379 Lake View,MG Road,Bangalore,Maharashtra,female,+914853813980,022-42032470,music,M.Sc,IIT
+Rohit,Iyer,84,T-714 Lake View,New Pune Road,Chennai,Tamil Nadu,female,+914425784278,022-59955957,cooking,MBA,NIT
+Rohit,Iyer,15,R-324 Royal Apartments,Main Street,Chennai,Maharashtra,male,+913468391111,022-80003000,cricket,B.Com,Mumbai University
+Amit,Iyer,56,A-431 Royal Apartments,New Pune Road,Hyderabad,Telangana,female,+916936221830,022-84675884,music,M.Tech,NIT
+Priya,Iyer,36,J-828 Rakshak Society,Ring Road,Pune,Maharashtra,other,+915469011632,022-37814410,cricket,M.Sc,IIT
+Deepika,Iyer,30,Q-425 Royal Apartments,Main Street,Chennai,Delhi,male,+911677997804,022-12352332,reading,B.Sc,IIT
+Sneha,Singh,78,Z-492 Royal Apartments,New Pune Road,Delhi,Karnataka,female,+919155567853,022-18066790,cricket,MBA,Mumbai University
+Priya,Gupta,33,E-629 Royal Apartments,New Pune Road,Mumbai,Maharashtra,other,+916254389795,022-46031969,traveling,M.Tech,Mumbai University
+Vikram,Gupta,40,U-988 Green Park,Ring Road,Bangalore,Telangana,male,+914511482315,022-87038016,cricket,MBA,Mumbai University
+Deepika,Sharma,43,L-134 Lake View,Main Street,Pune,Maharashtra,other,+916938714760,022-88845988,cricket,MBA,IIT
+Rajesh,Iyer,22,B-373 Royal Apartments,MG Road,Delhi,Tamil Nadu,other,+916155513756,022-89802032,music,B.Tech,IIT
+Anita,Patel,61,E-37 Rakshak Society,New Pune Road,Pune,West Bengal,male,+911428292920,022-43975973,cricket,MBA,NIT
+Vikram,Singh,23,H-98 Lake View,Main Street,Pune,Delhi,other,+913160400740,022-47901603,gaming,M.Tech,IIT
+Rohit,Gupta,62,Y-691 Lake View,MG Road,Pune,Tamil Nadu,other,+917342200204,022-97481550,music,M.Tech,Anna University
+Deepika,Kumar,81,F-602 Lake View,Main Street,Pune,Telangana,female,+918849482119,022-96466806,cricket,MBA,NIT
+Priya,Patel,57,W-719 Rakshak Society,New Pune Road,Chennai,Karnataka,other,+912920611591,022-80826735,gaming,B.Tech,NIT
+Vikram,Kumar,20,K-722 Lake View,New Pune Road,Bangalore,Karnataka,male,+919167251315,022-40695053,cricket,M.Sc,NIT
+Amit,Prasad,57,V-378 Royal Apartments,MG Road,Pune,Tamil Nadu,other,+917518851531,022-86760226,cricket,M.Tech,Anna University
+Rohit,Kumar,33,U-179 Rakshak Society,Main Street,Hyderabad,Delhi,male,+917630188278,022-77765068,traveling,M.Sc,Pune University
+Deepika,Mehta,30,M-40 Green Park,New Pune Road,Kolkata,Maharashtra,female,+912905764917,022-22270554,cricket,M.Sc,Mumbai University
+Amit,Kumar,16,Z-555 Royal Apartments,Main Street,Delhi,Tamil Nadu,other,+916506958289,022-87321128,music,B.Sc,IIT
+Anita,Reddy,39,H-90 Rakshak Society,New Pune Road,Kolkata,Karnataka,female,+916816017929,022-42796866,music,M.Tech,NIT
+Anita,Desai,51,N-217 Rakshak Society,MG Road,Kolkata,West Bengal,other,+917970835587,022-62259908,cooking,M.Sc,NIT
+Kavya,Iyer,43,F-450 Royal Apartments,Ring Road,Kolkata,West Bengal,other,+911049297191,022-42037362,reading,MBA,Anna University
+Rohit,Singh,52,U-659 Royal Apartments,New Pune Road,Chennai,Telangana,male,+913324037051,022-10681842,reading,B.Sc,Anna University
+Anita,Mehta,27,V-806 Rakshak Society,Main Street,Kolkata,Delhi,female,+918519673811,022-17652892,cooking,B.Sc,NIT
+Rohit,Sharma,82,N-626 Lake View,New Pune Road,Pune,Maharashtra,male,+915599548072,022-22611517,music,B.Com,Pune University
+Kavya,Prasad,60,B-434 Rakshak Society,Main Street,Pune,Telangana,other,+919958412717,022-99966470,cricket,B.Sc,NIT
+Deepika,Kumar,70,C-694 Rakshak Society,Ring Road,Mumbai,Maharashtra,male,+914816401639,022-56487323,traveling,B.Tech,IIT
+Amit,Sharma,30,V-362 Royal Apartments,Main Street,Pune,Telangana,other,+916423243705,022-29019097,reading,B.Tech,IIT
+Amit,Desai,38,R-660 Lake View,Main Street,Pune,West Bengal,other,+916315367503,022-35022489,cooking,B.Com,NIT
+Arjun,Iyer,83,A-378 Lake View,New Pune Road,Mumbai,Telangana,female,+917183674063,022-13867251,cricket,B.Tech,Pune University
+Priya,Prasad,61,B-543 Green Park,New Pune Road,Kolkata,Delhi,female,+914177943141,022-10877803,cricket,M.Sc,IIT
+Amit,Iyer,31,K-582 Lake View,MG Road,Pune,Telangana,other,+918528182728,022-12455929,reading,MBA,NIT
+Vikram,Prasad,26,P-822 Green Park,MG Road,Hyderabad,Telangana,female,+911416506649,022-84197383,cricket,M.Sc,NIT
+Rohit,Kumar,70,D-355 Green Park,New Pune Road,Delhi,Karnataka,male,+916988086183,022-93359676,traveling,B.Sc,Pune University
+Sneha,Prasad,57,X-939 Green Park,Main Street,Delhi,Karnataka,male,+919239906615,022-62343279,gaming,B.Sc,NIT
+Arjun,Prasad,66,V-195 Green Park,Main Street,Chennai,Karnataka,female,+912751720121,022-12913010,traveling,M.Sc,NIT
+Sneha,Mehta,72,P-666 Royal Apartments,New Pune Road,Mumbai,West Bengal,male,+919407889835,022-91142842,reading,B.Com,Anna University
+Priya,Sharma,62,D-903 Rakshak Society,MG Road,Mumbai,Maharashtra,male,+915121831062,022-30300611,cooking,B.Tech,Pune University
+Sneha,Singh,32,M-365 Green Park,New Pune Road,Delhi,Maharashtra,female,+916966083405,022-91591876,traveling,B.Sc,NIT
+Kavya,Patel,73,F-601 Royal Apartments,Main Street,Pune,Maharashtra,male,+918457238198,022-75166525,cooking,B.Sc,Pune University
+Deepika,Mehta,19,Z-891 Lake View,MG Road,Hyderabad,West Bengal,female,+915826630499,022-28595081,reading,B.Sc,NIT
+Rajesh,Patel,27,W-976 Rakshak Society,New Pune Road,Kolkata,West Bengal,other,+919374712515,022-70004403,traveling,M.Tech,NIT
+Anita,Mehta,49,P-493 Green Park,MG Road,Delhi,Telangana,other,+912651899642,022-58434851,traveling,M.Tech,IIT
+Rohit,Iyer,44,E-890 Royal Apartments,Ring Road,Delhi,West Bengal,other,+914984393956,022-70163999,traveling,MBA,Pune University
+Sneha,Reddy,73,I-327 Rakshak Society,New Pune Road,Bangalore,Karnataka,other,+912504873322,022-25667477,gaming,M.Tech,Mumbai University
+Arjun,Desai,30,H-851 Royal Apartments,Ring Road,Bangalore,Telangana,male,+914678038711,022-72864411,music,B.Com,Pune University
+Deepika,Sharma,77,R-102 Lake View,Main Street,Mumbai,Karnataka,female,+917995405577,022-49866389,cooking,B.Tech,Anna University
+Rohit,Prasad,63,O-752 Royal Apartments,Main Street,Delhi,Delhi,other,+911105170995,022-30213812,cooking,MBA,Anna University
+Priya,Kumar,39,F-515 Royal Apartments,Main Street,Delhi,Maharashtra,male,+912945066437,022-82831638,reading,B.Sc,Anna University
+Rohit,Iyer,38,B-99 Green Park,Ring Road,Mumbai,Maharashtra,male,+917937926181,022-53919858,reading,B.Com,Mumbai University
+Priya,Prasad,50,K-303 Rakshak Society,Main Street,Pune,Maharashtra,female,+912251509867,022-80358789,reading,M.Tech,IIT
+Rajesh,Gupta,61,A-785 Green Park,Main Street,Hyderabad,Tamil Nadu,other,+917505908348,022-11861072,cooking,MBA,Mumbai University
+Rajesh,Desai,45,B-351 Rakshak Society,Main Street,Kolkata,West Bengal,male,+915140080459,022-21512945,cricket,M.Sc,Mumbai University
+Rohit,Kumar,56,V-225 Green Park,Ring Road,Chennai,Delhi,female,+913685087155,022-87984410,cricket,MBA,Pune University
+Amit,Patel,28,W-902 Green Park,Main Street,Kolkata,Karnataka,female,+916756595066,022-63609490,reading,B.Com,Pune University
+Arjun,Sharma,35,Q-654 Royal Apartments,Main Street,Hyderabad,Telangana,female,+918091930833,022-57536584,gaming,M.Tech,NIT
+Rajesh,Prasad,54,D-719 Green Park,Main Street,Chennai,Karnataka,male,+916723986138,022-43649479,music,MBA,Pune University
+Priya,Gupta,69,W-511 Royal Apartments,Ring Road,Bangalore,West Bengal,female,+918047856160,022-17093473,traveling,M.Tech,NIT
+Sneha,Mehta,24,D-739 Royal Apartments,MG Road,Bangalore,Karnataka,female,+914360833185,022-66773850,reading,B.Tech,IIT
+Amit,Iyer,29,U-420 Royal Apartments,Main Street,Pune,Maharashtra,female,+912436605447,022-48981543,traveling,M.Tech,Anna University
+Sneha,Iyer,24,E-512 Green Park,Main Street,Pune,Tamil Nadu,female,+913260810853,022-93227271,gaming,MBA,Mumbai University
+Priya,Mehta,16,F-755 Rakshak Society,Ring Road,Kolkata,Tamil Nadu,other,+912310131845,022-26205345,cricket,M.Sc,Pune University
+Deepika,Desai,82,J-337 Lake View,New Pune Road,Mumbai,Telangana,female,+919968177775,022-65181107,music,B.Sc,Pune University
+Rohit,Singh,40,G-741 Green Park,New Pune Road,Bangalore,Delhi,other,+916919518294,022-47607939,music,B.Tech,Mumbai University
+Rajesh,Gupta,71,L-605 Lake View,MG Road,Chennai,Maharashtra,other,+912098351464,022-30319846,cooking,B.Com,Anna University
+Anita,Iyer,37,O-711 Lake View,Main Street,Mumbai,Tamil Nadu,female,+916049128988,022-22515918,cricket,B.Tech,Pune University
+Kavya,Gupta,20,M-985 Lake View,Ring Road,Kolkata,Telangana,female,+919742717443,022-76845081,reading,M.Tech,IIT
+Deepika,Patel,55,U-899 Lake View,MG Road,Kolkata,Maharashtra,female,+919602075428,022-57565810,music,B.Com,NIT
+Kavya,Reddy,30,H-389 Lake View,Ring Road,Bangalore,Maharashtra,other,+912155501904,022-23916383,cricket,B.Com,Pune University
+Sneha,Iyer,84,A-691 Royal Apartments,New Pune Road,Chennai,Telangana,male,+911406328818,022-75789690,cricket,M.Sc,Anna University
+Arjun,Gupta,39,O-499 Lake View,Main Street,Kolkata,Tamil Nadu,male,+917990807257,022-97151131,traveling,M.Sc,Pune University
+Anita,Kumar,27,T-448 Green Park,Main Street,Kolkata,Tamil Nadu,female,+917365020938,022-57035854,traveling,B.Sc,NIT
+Sneha,Kumar,72,D-307 Green Park,Ring Road,Hyderabad,West Bengal,other,+911280394352,022-38384364,traveling,MBA,IIT
+Deepika,Reddy,77,T-538 Lake View,Main Street,Pune,Telangana,female,+911080264153,022-65787500,gaming,M.Tech,Mumbai University
+Kavya,Desai,54,K-583 Lake View,MG Road,Mumbai,West Bengal,other,+912906530720,022-74166887,cricket,B.Sc,Pune University
+Amit,Patel,76,B-127 Green Park,New Pune Road,Kolkata,Delhi,male,+915778203043,022-65547153,music,M.Tech,Anna University
+Rohit,Sharma,42,E-415 Lake View,Ring Road,Bangalore,Tamil Nadu,male,+917178532776,022-24757123,cricket,B.Sc,Anna University
+Rohit,Mehta,66,S-568 Rakshak Society,MG Road,Mumbai,Tamil Nadu,male,+915325029033,022-57617383,cricket,M.Sc,NIT
+Rajesh,Iyer,25,O-662 Lake View,Ring Road,Hyderabad,Karnataka,other,+911124067100,022-19189917,gaming,B.Com,IIT
+Priya,Singh,71,I-221 Lake View,Ring Road,Mumbai,Delhi,female,+916539662185,022-54101328,traveling,B.Com,Pune University
+Sneha,Patel,78,C-81 Green Park,Ring Road,Hyderabad,Karnataka,female,+911708340573,022-17664556,cooking,B.Tech,IIT
+Deepika,Prasad,38,V-222 Royal Apartments,Ring Road,Bangalore,Karnataka,other,+916997835726,022-48413194,traveling,B.Tech,IIT
+Deepika,Reddy,26,E-926 Lake View,Main Street,Chennai,Delhi,other,+915367083710,022-61675256,traveling,B.Com,IIT
+Priya,Sharma,35,S-826 Green Park,Main Street,Chennai,Tamil Nadu,male,+914330419628,022-15918384,reading,B.Tech,Pune University
+Rohit,Sharma,59,X-443 Lake View,MG Road,Delhi,Delhi,other,+918664502083,022-39606472,reading,B.Com,Pune University
+Arjun,Singh,27,X-529 Rakshak Society,Ring Road,Chennai,Tamil Nadu,male,+918945507535,022-90589697,cricket,B.Sc,Mumbai University
+Arjun,Gupta,34,A-929 Rakshak Society,Ring Road,Chennai,Karnataka,female,+913944631948,022-24699288,cricket,MBA,Anna University
+Rajesh,Prasad,41,J-706 Rakshak Society,Ring Road,Hyderabad,Telangana,male,+917340150229,022-70644778,cricket,B.Com,IIT
+Amit,Patel,73,U-224 Rakshak Society,Ring Road,Hyderabad,Telangana,male,+914627187397,022-13781360,gaming,M.Tech,IIT
+Sneha,Gupta,83,T-844 Rakshak Society,Main Street,Mumbai,Delhi,other,+912610812755,022-51625359,cricket,B.Tech,Anna University
+Vikram,Patel,35,R-448 Royal Apartments,MG Road,Chennai,Delhi,other,+916846724125,022-15849289,cricket,M.Tech,IIT
+Priya,Gupta,17,K-549 Rakshak Society,MG Road,Delhi,Karnataka,male,+916435576866,022-83857997,cricket,B.Sc,Pune University
+Rajesh,Iyer,82,Q-766 Rakshak Society,MG Road,Pune,West Bengal,male,+915867818067,022-98808675,traveling,MBA,Pune University
+Arjun,Reddy,33,B-345 Green Park,New Pune Road,Pune,Karnataka,other,+915727835679,022-70191535,gaming,M.Sc,Mumbai University
+Kavya,Kumar,54,U-460 Rakshak Society,Ring Road,Chennai,Karnataka,male,+911707419061,022-53574109,music,B.Com,NIT
+Anita,Kumar,50,Y-985 Royal Apartments,New Pune Road,Bangalore,Delhi,female,+915258606868,022-73349597,cooking,B.Com,Anna University
+Rohit,Desai,63,Q-215 Rakshak Society,Main Street,Pune,Tamil Nadu,other,+914878429140,022-85755059,traveling,M.Tech,NIT
+Amit,Mehta,70,O-220 Royal Apartments,Ring Road,Delhi,Karnataka,male,+912556450789,022-46806978,music,M.Tech,IIT
+Deepika,Reddy,34,E-399 Royal Apartments,MG Road,Bangalore,Telangana,male,+911341910606,022-22559553,cricket,M.Tech,Anna University
+Anita,Sharma,61,K-991 Rakshak Society,MG Road,Delhi,West Bengal,female,+916114773180,022-28371938,music,M.Tech,IIT
+Rohit,Gupta,18,P-401 Green Park,MG Road,Delhi,Maharashtra,other,+918078422951,022-11183556,music,B.Tech,Anna University
+Priya,Sharma,76,U-329 Lake View,Main Street,Delhi,Telangana,other,+917980552819,022-60512515,gaming,B.Sc,Pune University
+Anita,Mehta,50,G-222 Green Park,New Pune Road,Delhi,Maharashtra,male,+911109511531,022-21654262,reading,M.Tech,IIT
+Kavya,Prasad,63,B-667 Green Park,New Pune Road,Bangalore,Telangana,other,+914178851411,022-89416135,traveling,M.Sc,NIT
+Kavya,Singh,72,D-298 Green Park,MG Road,Mumbai,Delhi,male,+912405397623,022-84079125,cooking,B.Sc,Pune University
+Rajesh,Prasad,58,E-788 Royal Apartments,Main Street,Delhi,West Bengal,male,+919793376606,022-51688005,gaming,B.Tech,Mumbai University
+Amit,Reddy,34,A-855 Lake View,Ring Road,Bangalore,Maharashtra,female,+911039651056,022-51913249,reading,B.Com,Mumbai University
+Kavya,Prasad,71,V-339 Lake View,MG Road,Hyderabad,Telangana,female,+918737136264,022-44830213,music,M.Sc,Pune University
+Sneha,Prasad,66,D-434 Royal Apartments,New Pune Road,Kolkata,West Bengal,male,+916222720950,022-80431100,traveling,B.Com,Mumbai University
+Sneha,Iyer,20,Y-941 Royal Apartments,Ring Road,Kolkata,Tamil Nadu,male,+913990916522,022-61488698,traveling,B.Com,NIT
+Sneha,Reddy,82,R-402 Green Park,New Pune Road,Mumbai,Telangana,female,+917294883997,022-35916561,cricket,M.Sc,Mumbai University
+Deepika,Patel,64,M-787 Lake View,Ring Road,Delhi,Karnataka,other,+918064470053,022-64850894,cooking,M.Tech,Mumbai University
+Rohit,Kumar,69,E-923 Lake View,MG Road,Bangalore,Tamil Nadu,male,+917269627763,022-88863952,cricket,B.Sc,NIT
+Anita,Singh,21,W-133 Green Park,MG Road,Chennai,Tamil Nadu,other,+917159863740,022-82428317,traveling,M.Tech,IIT
+Rajesh,Desai,57,J-717 Green Park,Main Street,Chennai,Telangana,male,+913902404402,022-27463392,gaming,B.Sc,Pune University
+Rohit,Desai,83,J-649 Green Park,Ring Road,Chennai,West Bengal,male,+911914902383,022-16497244,cricket,B.Sc,Mumbai University
+Arjun,Singh,40,Q-924 Green Park,MG Road,Kolkata,Telangana,male,+919371696872,022-46926814,traveling,M.Sc,NIT
+Priya,Iyer,63,Z-211 Green Park,Ring Road,Pune,Delhi,female,+914287582230,022-67900530,cricket,M.Tech,Pune University
+Kavya,Reddy,33,V-423 Rakshak Society,MG Road,Bangalore,Maharashtra,female,+913865861903,022-49812270,music,B.Sc,Pune University
+Kavya,Sharma,76,B-376 Lake View,New Pune Road,Kolkata,Karnataka,male,+919969792851,022-25136606,reading,B.Com,Pune University
+Amit,Mehta,33,C-524 Rakshak Society,New Pune Road,Pune,Delhi,female,+916774374753,022-40860269,reading,MBA,IIT
+Sneha,Gupta,76,D-601 Rakshak Society,Main Street,Mumbai,Maharashtra,male,+918861913822,022-12760699,reading,B.Sc,Mumbai University
+Rajesh,Sharma,84,G-136 Rakshak Society,MG Road,Mumbai,Tamil Nadu,female,+911616385378,022-38959347,traveling,B.Sc,Pune University
+Priya,Prasad,81,H-760 Rakshak Society,MG Road,Mumbai,West Bengal,male,+914011512182,022-24597538,music,MBA,Pune University
+Rajesh,Patel,31,F-592 Lake View,New Pune Road,Delhi,West Bengal,female,+912141851176,022-47834626,cricket,B.Sc,IIT
+Kavya,Desai,18,R-580 Rakshak Society,MG Road,Delhi,Maharashtra,female,+913970416637,022-25004082,gaming,MBA,Pune University
+Rajesh,Kumar,56,O-464 Royal Apartments,Ring Road,Delhi,Karnataka,female,+913599162943,022-74315451,traveling,M.Sc,Mumbai University
+Sneha,Sharma,57,H-864 Royal Apartments,New Pune Road,Pune,Maharashtra,other,+913950537839,022-93473556,cricket,B.Com,Pune University
+Rajesh,Mehta,21,A-646 Royal Apartments,Ring Road,Pune,Telangana,other,+912446676449,022-42985513,cooking,MBA,Mumbai University
+Deepika,Prasad,54,Y-877 Green Park,Ring Road,Kolkata,Tamil Nadu,female,+913826179670,022-41734613,traveling,MBA,NIT
+Rohit,Kumar,51,Y-83 Green Park,Main Street,Hyderabad,Maharashtra,female,+917141357303,022-64240610,cooking,MBA,Mumbai University
+Rajesh,Prasad,71,Z-82 Lake View,Main Street,Delhi,Telangana,other,+917677555460,022-14171265,cricket,B.Sc,Anna University
+Arjun,Mehta,23,O-189 Rakshak Society,Ring Road,Delhi,Tamil Nadu,male,+911416874426,022-30071350,music,B.Sc,NIT
+Vikram,Prasad,28,K-915 Rakshak Society,MG Road,Kolkata,Maharashtra,other,+912487731014,022-36482303,music,MBA,NIT
+Priya,Gupta,57,L-366 Green Park,MG Road,Kolkata,Tamil Nadu,male,+913769206153,022-93782968,reading,B.Tech,Anna University
+Sneha,Desai,26,D-389 Green Park,Main Street,Bangalore,Maharashtra,male,+917268233341,022-43526729,cooking,M.Tech,Anna University
+Sneha,Singh,77,F-709 Rakshak Society,Main Street,Delhi,Tamil Nadu,female,+919105943456,022-40837237,cricket,M.Tech,Mumbai University
+Rohit,Kumar,26,D-694 Royal Apartments,Ring Road,Bangalore,Tamil Nadu,female,+913741137477,022-87711383,cooking,B.Com,Mumbai University
+Deepika,Patel,70,V-740 Rakshak Society,New Pune Road,Chennai,Maharashtra,other,+912297771693,022-65656056,music,M.Tech,Pune University
+Priya,Gupta,63,H-872 Royal Apartments,Main Street,Delhi,Tamil Nadu,other,+917883121639,022-47208218,cooking,M.Tech,Mumbai University
+Rajesh,Kumar,64,Y-907 Green Park,Ring Road,Hyderabad,Delhi,other,+919655790726,022-74342027,reading,M.Tech,Pune University
+Rajesh,Desai,76,N-235 Lake View,Ring Road,Mumbai,Maharashtra,male,+916342699133,022-97282841,traveling,M.Tech,Mumbai University
+Deepika,Kumar,59,Z-701 Green Park,New Pune Road,Hyderabad,Tamil Nadu,other,+916126905437,022-74490776,cricket,M.Tech,Mumbai University
+Vikram,Gupta,22,Z-678 Green Park,New Pune Road,Mumbai,Tamil Nadu,female,+914003648630,022-20852466,cooking,B.Sc,IIT
+Sneha,Mehta,83,Y-915 Rakshak Society,Ring Road,Chennai,Telangana,male,+911938520878,022-31491285,music,M.Sc,Anna University
+Kavya,Iyer,37,X-12 Green Park,MG Road,Chennai,Tamil Nadu,male,+919769332798,022-31073461,cooking,B.Com,NIT
+Deepika,Reddy,23,J-428 Royal Apartments,Ring Road,Mumbai,West Bengal,male,+915109194329,022-23111284,cooking,M.Sc,Pune University
+Sneha,Reddy,84,W-556 Royal Apartments,Main Street,Mumbai,Delhi,male,+916428087326,022-75914397,reading,M.Tech,Pune University
+Arjun,Prasad,70,I-369 Lake View,Ring Road,Chennai,Delhi,other,+911873376802,022-33923093,music,B.Com,Mumbai University
+Rajesh,Gupta,18,M-87 Rakshak Society,MG Road,Mumbai,Tamil Nadu,female,+914718562520,022-23464960,cooking,M.Sc,NIT
+Sneha,Iyer,48,E-789 Green Park,Main Street,Kolkata,Telangana,female,+918445568276,022-68344064,cricket,B.Sc,IIT
+Priya,Gupta,55,E-879 Lake View,Main Street,Mumbai,Delhi,female,+918178326224,022-83905992,cricket,M.Tech,NIT
+Deepika,Sharma,47,X-336 Rakshak Society,Main Street,Pune,Karnataka,female,+917899239028,022-12729089,music,M.Sc,NIT
+Amit,Iyer,64,U-427 Lake View,New Pune Road,Mumbai,Delhi,female,+914478205313,022-29089087,traveling,B.Tech,NIT
+Anita,Patel,74,M-46 Lake View,Ring Road,Kolkata,Karnataka,female,+911633313263,022-76474690,cooking,M.Tech,NIT
+Rajesh,Iyer,50,O-561 Green Park,New Pune Road,Bangalore,Tamil Nadu,male,+911107269359,022-54890246,traveling,B.Com,Mumbai University
+Priya,Sharma,60,W-276 Royal Apartments,New Pune Road,Kolkata,West Bengal,female,+917971135194,022-76684758,gaming,B.Sc,NIT
+Arjun,Reddy,55,W-240 Rakshak Society,MG Road,Bangalore,Telangana,male,+911555734336,022-32044455,traveling,M.Tech,Anna University
+Amit,Desai,22,D-371 Rakshak Society,MG Road,Mumbai,Tamil Nadu,other,+917395337340,022-55057758,cooking,MBA,Pune University
+Arjun,Prasad,26,A-664 Green Park,New Pune Road,Chennai,Karnataka,other,+916123990624,022-31964696,traveling,M.Tech,Mumbai University
+Priya,Singh,79,F-334 Lake View,Main Street,Mumbai,West Bengal,male,+914041088381,022-14927748,gaming,B.Tech,IIT
+Deepika,Kumar,60,P-36 Green Park,New Pune Road,Delhi,Maharashtra,female,+912851227674,022-86539941,reading,B.Com,Anna University
+Priya,Iyer,31,H-635 Royal Apartments,Main Street,Bangalore,Tamil Nadu,female,+913381024397,022-89526973,music,B.Sc,Anna University
+Amit,Desai,25,H-577 Royal Apartments,New Pune Road,Pune,Karnataka,other,+915134852165,022-45557419,cooking,B.Sc,IIT
+Amit,Reddy,15,V-826 Royal Apartments,Main Street,Bangalore,Karnataka,female,+912236163011,022-53360882,music,B.Sc,Anna University
+Amit,Reddy,17,E-244 Green Park,MG Road,Delhi,Delhi,male,+918197626672,022-63822454,cricket,B.Sc,Anna University
+Rajesh,Gupta,63,H-508 Green Park,Ring Road,Hyderabad,Delhi,female,+918481412638,022-63248626,cricket,M.Sc,IIT
+Kavya,Kumar,36,Y-180 Lake View,Ring Road,Pune,Delhi,male,+915579819604,022-33434337,cooking,M.Sc,Mumbai University
+Anita,Prasad,46,J-365 Royal Apartments,Ring Road,Bangalore,West Bengal,female,+913435493450,022-34013920,traveling,M.Tech,Anna University
+Kavya,Kumar,49,Q-570 Green Park,New Pune Road,Mumbai,Tamil Nadu,other,+911112992696,022-89577712,reading,B.Tech,Mumbai University
+Arjun,Reddy,18,T-701 Royal Apartments,MG Road,Hyderabad,Maharashtra,male,+916593307903,022-34831843,traveling,MBA,IIT
+Amit,Singh,19,W-985 Rakshak Society,Ring Road,Delhi,Maharashtra,other,+911053438164,022-61256856,gaming,B.Sc,Mumbai University
+Rajesh,Desai,66,J-103 Green Park,Ring Road,Chennai,Maharashtra,male,+917699065371,022-90827416,traveling,B.Tech,IIT
+Kavya,Gupta,81,P-645 Lake View,New Pune Road,Chennai,Delhi,other,+915968271751,022-85668557,music,M.Tech,IIT
+Arjun,Mehta,52,F-596 Royal Apartments,Main Street,Mumbai,Delhi,female,+916177593103,022-40757549,music,MBA,Mumbai University
+Kavya,Mehta,66,M-773 Lake View,MG Road,Pune,Telangana,male,+911801939579,022-10100445,cricket,B.Sc,Mumbai University
+Priya,Patel,77,X-411 Green Park,Main Street,Bangalore,Maharashtra,male,+914141836894,022-35965385,reading,M.Tech,Mumbai University
+Anita,Sharma,70,A-785 Lake View,Main Street,Mumbai,Karnataka,male,+911374118827,022-78835493,cricket,M.Sc,NIT
+Vikram,Sharma,82,Y-162 Rakshak Society,New Pune Road,Pune,Karnataka,female,+919790573691,022-20431665,cricket,B.Sc,Pune University
+Rohit,Iyer,83,L-626 Green Park,New Pune Road,Pune,Telangana,other,+919450235852,022-72941757,music,MBA,Pune University
+Sneha,Sharma,79,H-742 Lake View,Ring Road,Pune,Karnataka,male,+916539799846,022-55138337,traveling,B.Tech,Anna University
+Arjun,Desai,34,V-418 Lake View,Ring Road,Bangalore,Maharashtra,female,+919226491076,022-30513226,cooking,B.Com,NIT
+Priya,Patel,51,Y-859 Green Park,Main Street,Bangalore,West Bengal,other,+916860944101,022-20681125,cooking,B.Sc,Mumbai University
+Rajesh,Patel,67,N-599 Lake View,Main Street,Delhi,West Bengal,female,+913838786785,022-19966132,music,B.Tech,Anna University
+Deepika,Sharma,27,Y-54 Rakshak Society,Ring Road,Kolkata,Telangana,male,+914724308082,022-93200832,cricket,B.Com,IIT
+Vikram,Mehta,67,J-342 Royal Apartments,MG Road,Delhi,Delhi,male,+918836165939,022-36474163,music,B.Tech,IIT
+Rohit,Gupta,76,M-119 Lake View,New Pune Road,Hyderabad,Maharashtra,female,+917888799731,022-12487241,cooking,M.Sc,IIT
+Vikram,Sharma,68,P-796 Lake View,Main Street,Bangalore,Tamil Nadu,other,+912198285455,022-35667386,gaming,M.Sc,Anna University
+Rohit,Prasad,36,L-129 Lake View,Ring Road,Mumbai,Delhi,male,+916722087394,022-32341724,music,M.Sc,Mumbai University
+Vikram,Patel,46,I-823 Rakshak Society,Ring Road,Bangalore,Karnataka,other,+913657636901,022-62394762,cooking,B.Sc,Pune University
+Arjun,Sharma,57,O-950 Royal Apartments,Ring Road,Hyderabad,Tamil Nadu,male,+911681672039,022-68604031,cooking,MBA,Mumbai University
+Anita,Mehta,35,X-620 Green Park,Ring Road,Kolkata,Delhi,other,+914037308208,022-21191860,cooking,M.Sc,NIT
+Rajesh,Prasad,32,X-924 Royal Apartments,MG Road,Kolkata,West Bengal,male,+911627000603,022-43665811,cricket,B.Com,IIT
+Sneha,Patel,77,E-901 Green Park,New Pune Road,Mumbai,Tamil Nadu,male,+916898652742,022-33350324,cooking,M.Sc,IIT
+Amit,Iyer,67,P-295 Lake View,Ring Road,Kolkata,West Bengal,other,+917953649316,022-57175246,cricket,B.Com,Pune University
+Amit,Iyer,54,V-846 Lake View,Main Street,Chennai,Maharashtra,female,+912319969205,022-76314622,cooking,M.Tech,Anna University
+Rohit,Desai,60,G-958 Royal Apartments,Ring Road,Delhi,Maharashtra,female,+918495972467,022-86223793,music,B.Sc,Mumbai University
+Sneha,Desai,32,L-618 Lake View,MG Road,Pune,West Bengal,male,+914291606566,022-25050585,traveling,M.Sc,NIT
+Rajesh,Prasad,31,P-811 Royal Apartments,Main Street,Kolkata,Maharashtra,male,+916822423338,022-54364161,traveling,B.Sc,NIT
+Rajesh,Kumar,17,F-693 Royal Apartments,New Pune Road,Bangalore,Delhi,other,+915078179946,022-72862751,music,MBA,Anna University
+Priya,Reddy,16,R-664 Rakshak Society,Main Street,Hyderabad,Telangana,female,+912255329191,022-42940532,cooking,B.Tech,Pune University
+Sneha,Gupta,34,J-981 Royal Apartments,MG Road,Bangalore,Delhi,female,+915993201863,022-93129833,reading,B.Tech,IIT
+Vikram,Patel,77,U-831 Rakshak Society,Ring Road,Hyderabad,Delhi,male,+916029986269,022-87297394,traveling,B.Tech,Mumbai University
+Sneha,Prasad,20,D-337 Royal Apartments,New Pune Road,Hyderabad,Maharashtra,other,+915825723678,022-92393175,music,M.Tech,Mumbai University
+Amit,Singh,27,P-351 Rakshak Society,Main Street,Bangalore,Tamil Nadu,female,+914325115918,022-71884038,music,B.Com,NIT
+Sneha,Patel,84,O-352 Lake View,Main Street,Chennai,Delhi,female,+916121879226,022-16788552,cricket,B.Sc,Pune University
+Kavya,Kumar,67,F-137 Rakshak Society,MG Road,Pune,Maharashtra,male,+915376477062,022-47834494,cricket,B.Sc,Anna University
+Rohit,Desai,73,B-516 Green Park,Ring Road,Delhi,Karnataka,male,+911145786702,022-70086412,traveling,M.Tech,NIT
+Rohit,Iyer,72,V-894 Lake View,Ring Road,Bangalore,Karnataka,other,+914686966548,022-55601966,cricket,B.Com,IIT
+Priya,Reddy,54,R-692 Lake View,Main Street,Bangalore,Delhi,other,+914416431767,022-92975353,traveling,M.Sc,Anna University
+Amit,Prasad,20,L-39 Royal Apartments,MG Road,Delhi,Telangana,female,+912762913386,022-31518049,cricket,MBA,Mumbai University
+Sneha,Prasad,15,V-492 Royal Apartments,Ring Road,Kolkata,West Bengal,female,+914062877776,022-86463889,reading,MBA,IIT
+Arjun,Patel,57,P-616 Green Park,Main Street,Pune,West Bengal,other,+914528076902,022-55693439,cooking,M.Sc,IIT
+Rajesh,Kumar,26,E-250 Green Park,Ring Road,Delhi,West Bengal,female,+912936824437,022-30106146,traveling,B.Sc,Anna University
+Rohit,Patel,61,O-555 Green Park,Main Street,Chennai,Karnataka,male,+911814042125,022-25542234,reading,B.Sc,Anna University
+Kavya,Prasad,60,A-633 Lake View,Main Street,Delhi,West Bengal,female,+918604683882,022-24245615,cooking,B.Tech,Pune University
+Sneha,Singh,84,T-581 Green Park,Ring Road,Pune,Tamil Nadu,male,+917876601934,022-81590016,cooking,B.Sc,Anna University
+Kavya,Iyer,75,F-818 Green Park,New Pune Road,Pune,Delhi,male,+916477927496,022-71924067,gaming,M.Tech,Mumbai University
+Arjun,Patel,59,J-762 Green Park,MG Road,Mumbai,Karnataka,female,+918151630599,022-58400484,music,M.Tech,Anna University
+Sneha,Gupta,15,Q-706 Lake View,MG Road,Bangalore,Delhi,female,+917874334576,022-50184950,traveling,M.Tech,Mumbai University
+Priya,Mehta,74,A-342 Royal Apartments,Main Street,Hyderabad,West Bengal,male,+914702150006,022-52385139,music,B.Tech,Mumbai University
+Priya,Prasad,47,U-888 Rakshak Society,New Pune Road,Hyderabad,Delhi,male,+913313476041,022-20125374,reading,MBA,Mumbai University
+Sneha,Sharma,73,G-721 Lake View,Main Street,Pune,Delhi,female,+911779079918,022-17431795,gaming,M.Sc,IIT
+Amit,Patel,69,J-665 Lake View,New Pune Road,Delhi,Delhi,female,+917270120148,022-50424445,cooking,B.Tech,NIT
+Anita,Prasad,44,H-823 Rakshak Society,Ring Road,Chennai,Karnataka,male,+919935285806,022-63236111,traveling,B.Tech,NIT
+Deepika,Singh,57,D-808 Royal Apartments,Main Street,Pune,Karnataka,male,+917829066861,022-16942833,cooking,M.Tech,Mumbai University
+Arjun,Reddy,25,M-195 Rakshak Society,New Pune Road,Bangalore,Telangana,female,+912335358768,022-62417337,reading,MBA,Mumbai University
+Rohit,Sharma,29,D-232 Lake View,Ring Road,Kolkata,Delhi,male,+912540264522,022-45900673,reading,B.Sc,Pune University
+Amit,Mehta,73,L-319 Royal Apartments,New Pune Road,Delhi,West Bengal,female,+919499986129,022-69077372,cricket,B.Sc,IIT
+Rohit,Gupta,78,Q-584 Green Park,Ring Road,Bangalore,West Bengal,male,+914203913621,022-54909257,music,B.Tech,IIT
+Amit,Prasad,32,E-291 Rakshak Society,Ring Road,Kolkata,Tamil Nadu,male,+911855466364,022-56217890,cooking,B.Sc,Mumbai University
+Arjun,Gupta,65,L-664 Lake View,Ring Road,Chennai,Maharashtra,male,+915733644604,022-19719281,cricket,M.Tech,NIT
+Rajesh,Mehta,46,X-537 Rakshak Society,Ring Road,Bangalore,Tamil Nadu,female,+911417204835,022-64083568,music,M.Tech,Mumbai University
+Amit,Prasad,32,X-187 Royal Apartments,Ring Road,Pune,Delhi,male,+916615904289,022-75825638,cooking,M.Sc,IIT
+Rajesh,Reddy,35,B-447 Green Park,MG Road,Chennai,West Bengal,female,+917868266552,022-26804099,cricket,M.Sc,NIT
+Sneha,Kumar,38,C-331 Royal Apartments,New Pune Road,Chennai,Tamil Nadu,female,+915599153396,022-93732687,cricket,M.Sc,Anna University
+Sneha,Kumar,47,Y-300 Rakshak Society,MG Road,Pune,Maharashtra,male,+912010702791,022-39773951,cricket,M.Tech,Mumbai University
+Anita,Prasad,35,V-185 Lake View,New Pune Road,Bangalore,Telangana,female,+911737860022,022-35160470,gaming,B.Tech,Pune University
+Kavya,Desai,63,A-577 Rakshak Society,MG Road,Delhi,Delhi,male,+919115197320,022-70661237,cooking,MBA,IIT
+Amit,Reddy,27,F-212 Green Park,Main Street,Delhi,Telangana,female,+917957890818,022-63539490,cricket,M.Sc,IIT
+Rajesh,Prasad,38,S-190 Royal Apartments,Ring Road,Bangalore,Tamil Nadu,other,+918170046114,022-58054195,traveling,B.Tech,NIT
+Kavya,Desai,78,U-719 Lake View,Main Street,Chennai,Delhi,other,+917423154397,022-56507785,music,B.Tech,Mumbai University
+Amit,Sharma,20,B-160 Royal Apartments,New Pune Road,Kolkata,Tamil Nadu,other,+915602677201,022-54391686,traveling,M.Tech,Mumbai University
+Amit,Reddy,29,T-874 Lake View,New Pune Road,Hyderabad,Telangana,other,+913893775349,022-82265311,reading,B.Tech,Anna University
+Vikram,Singh,28,Z-131 Royal Apartments,MG Road,Bangalore,Tamil Nadu,male,+915972532160,022-50366172,reading,B.Sc,Anna University
+Sneha,Gupta,21,K-939 Lake View,MG Road,Mumbai,Maharashtra,female,+919205382081,022-55791882,reading,M.Tech,Mumbai University
+Anita,Reddy,52,O-840 Royal Apartments,Main Street,Bangalore,Maharashtra,female,+912431239311,022-21064709,reading,B.Tech,IIT
+Amit,Reddy,84,V-960 Green Park,Main Street,Mumbai,Maharashtra,male,+919405894773,022-21177600,cricket,MBA,Anna University
+Anita,Mehta,72,A-941 Rakshak Society,MG Road,Kolkata,West Bengal,female,+916198763037,022-96435366,music,B.Sc,IIT
+Sneha,Prasad,53,Z-886 Lake View,New Pune Road,Mumbai,Delhi,female,+915632008091,022-78920338,music,B.Sc,Anna University
+Rohit,Reddy,21,G-739 Green Park,MG Road,Bangalore,Delhi,other,+911464539775,022-17837413,gaming,B.Com,NIT
+Vikram,Kumar,18,K-206 Royal Apartments,Main Street,Delhi,West Bengal,female,+918669667375,022-23853379,traveling,MBA,Pune University
+Amit,Kumar,80,Y-953 Rakshak Society,New Pune Road,Mumbai,West Bengal,female,+915862373275,022-62515993,reading,M.Tech,NIT
+Rohit,Desai,33,W-159 Rakshak Society,Ring Road,Mumbai,Maharashtra,male,+912248637433,022-64064954,music,MBA,Anna University
+Kavya,Sharma,31,A-73 Green Park,Main Street,Delhi,Maharashtra,other,+917099894104,022-46902379,traveling,M.Sc,NIT
+Vikram,Kumar,31,Y-325 Rakshak Society,Ring Road,Bangalore,Karnataka,female,+915128472550,022-61584678,gaming,M.Tech,NIT
+Anita,Sharma,29,C-619 Green Park,New Pune Road,Chennai,West Bengal,other,+918101183538,022-69737339,cooking,M.Tech,Mumbai University
+Kavya,Patel,58,L-492 Green Park,New Pune Road,Bangalore,Telangana,male,+916686979545,022-68727216,cooking,B.Tech,IIT
+Deepika,Singh,44,G-652 Lake View,Main Street,Kolkata,Karnataka,female,+919854935716,022-29454923,gaming,B.Sc,NIT
+Sneha,Reddy,40,T-309 Green Park,New Pune Road,Bangalore,Tamil Nadu,other,+917841916392,022-29531740,cricket,M.Tech,Mumbai University
+Arjun,Reddy,25,C-517 Lake View,Ring Road,Delhi,Maharashtra,female,+914587168013,022-76757138,traveling,B.Com,Mumbai University
+Arjun,Kumar,41,V-876 Green Park,Ring Road,Mumbai,West Bengal,female,+911268121590,022-90098885,cricket,M.Tech,IIT
+Rohit,Kumar,45,V-456 Green Park,New Pune Road,Kolkata,West Bengal,female,+911692607336,022-35101165,cricket,B.Tech,NIT
+Vikram,Iyer,24,D-208 Lake View,MG Road,Delhi,Telangana,male,+912253120359,022-23572418,gaming,M.Tech,Mumbai University
+Kavya,Patel,75,I-466 Lake View,Main Street,Pune,Tamil Nadu,other,+914057728977,022-85414826,traveling,B.Tech,IIT
+Amit,Sharma,55,O-602 Royal Apartments,MG Road,Chennai,Tamil Nadu,female,+911960556123,022-10629518,music,M.Tech,IIT
+Sneha,Prasad,35,R-240 Rakshak Society,New Pune Road,Bangalore,Tamil Nadu,other,+918926859245,022-24691415,music,B.Com,IIT
+Amit,Patel,80,X-777 Green Park,MG Road,Pune,Tamil Nadu,female,+917977233520,022-92677057,gaming,M.Sc,Pune University
+Rohit,Sharma,60,T-525 Lake View,MG Road,Hyderabad,Maharashtra,other,+916871865220,022-50283253,reading,B.Sc,IIT
+Sneha,Reddy,69,D-593 Rakshak Society,Main Street,Mumbai,Karnataka,other,+916099647881,022-41472967,cooking,B.Sc,IIT
+Kavya,Reddy,16,H-399 Rakshak Society,Ring Road,Delhi,Telangana,male,+915828282201,022-44128555,reading,B.Tech,Pune University
+Sneha,Desai,18,C-736 Royal Apartments,MG Road,Hyderabad,Delhi,other,+917685793211,022-54745695,music,B.Com,Pune University
+Priya,Reddy,26,L-822 Royal Apartments,MG Road,Hyderabad,Karnataka,female,+915284970612,022-56007401,traveling,MBA,NIT
+Sneha,Sharma,15,T-641 Rakshak Society,New Pune Road,Delhi,Delhi,other,+917050405725,022-19633210,cooking,M.Sc,IIT
+Rajesh,Prasad,24,P-807 Rakshak Society,Ring Road,Kolkata,Delhi,other,+913689391070,022-25833462,cooking,B.Sc,Anna University
+Sneha,Prasad,24,G-628 Lake View,MG Road,Chennai,Telangana,male,+913554662428,022-53153121,reading,B.Sc,Pune University
+Arjun,Desai,67,L-728 Lake View,New Pune Road,Chennai,Telangana,male,+911011656533,022-29680230,traveling,B.Tech,Anna University
+Sneha,Prasad,82,B-168 Lake View,Main Street,Mumbai,Maharashtra,other,+912592885493,022-38328351,cricket,B.Sc,Pune University
+Rajesh,Mehta,53,Y-241 Royal Apartments,Main Street,Mumbai,Karnataka,male,+919864895976,022-27181414,gaming,M.Tech,Anna University
+Rohit,Gupta,27,A-52 Rakshak Society,MG Road,Chennai,West Bengal,male,+919587928266,022-84438179,cooking,MBA,NIT
+Vikram,Singh,36,H-557 Rakshak Society,Main Street,Hyderabad,Tamil Nadu,female,+916014014975,022-97884597,gaming,B.Sc,NIT
+Amit,Iyer,56,V-575 Royal Apartments,Ring Road,Hyderabad,Delhi,female,+914725846454,022-37558745,cricket,M.Tech,Mumbai University
+Rohit,Reddy,65,J-629 Lake View,MG Road,Chennai,Telangana,other,+913447746763,022-33476997,reading,B.Tech,NIT
+Rohit,Mehta,61,N-622 Lake View,MG Road,Chennai,Tamil Nadu,other,+914970111113,022-75636166,music,B.Sc,Pune University
+Deepika,Kumar,31,I-684 Green Park,New Pune Road,Pune,West Bengal,other,+912090970380,022-43520788,music,M.Tech,IIT
+Rohit,Singh,57,S-202 Royal Apartments,MG Road,Chennai,Maharashtra,male,+914054138489,022-16584838,traveling,B.Sc,NIT
+Amit,Kumar,27,C-352 Royal Apartments,Main Street,Bangalore,Telangana,other,+916994000751,022-82769419,traveling,B.Sc,NIT
+Kavya,Mehta,75,C-133 Royal Apartments,New Pune Road,Bangalore,Tamil Nadu,male,+912175292730,022-55910855,traveling,B.Com,Anna University
+Anita,Mehta,79,R-248 Lake View,Ring Road,Kolkata,Maharashtra,female,+919044748101,022-94467293,music,B.Sc,NIT
+Deepika,Iyer,55,L-460 Rakshak Society,MG Road,Chennai,Karnataka,male,+912078489953,022-21065499,music,M.Tech,IIT
+Rajesh,Gupta,53,I-401 Lake View,MG Road,Kolkata,Tamil Nadu,male,+911347294586,022-95142494,cooking,B.Sc,Pune University
+Deepika,Reddy,70,N-95 Green Park,New Pune Road,Hyderabad,Karnataka,male,+916062494590,022-63336760,music,B.Tech,Mumbai University
+Rohit,Kumar,51,J-659 Rakshak Society,MG Road,Pune,West Bengal,other,+914910187718,022-33943542,traveling,B.Tech,Pune University
+Sneha,Mehta,32,V-267 Royal Apartments,New Pune Road,Pune,Maharashtra,female,+916677901983,022-95459479,cooking,B.Tech,NIT
+Arjun,Singh,54,K-594 Rakshak Society,Ring Road,Hyderabad,Delhi,female,+913359893676,022-28262173,gaming,B.Com,Mumbai University
+Kavya,Reddy,62,Y-735 Royal Apartments,MG Road,Kolkata,Maharashtra,male,+911971589499,022-43997744,gaming,MBA,Anna University
+Rohit,Sharma,41,A-287 Lake View,Ring Road,Delhi,Telangana,other,+919945964001,022-16195999,cricket,B.Tech,IIT
+Priya,Desai,72,D-200 Royal Apartments,Main Street,Chennai,Karnataka,female,+914569954367,022-79998715,reading,B.Tech,NIT
+Kavya,Sharma,44,N-764 Green Park,Ring Road,Kolkata,Delhi,other,+918804607995,022-31711498,cooking,MBA,NIT
+Rajesh,Singh,73,P-825 Lake View,Main Street,Chennai,Maharashtra,male,+916752385343,022-58331969,cooking,M.Tech,NIT
+Deepika,Iyer,23,B-682 Lake View,Main Street,Kolkata,West Bengal,female,+919782839006,022-14742375,traveling,B.Tech,Anna University
+Kavya,Reddy,31,Y-524 Lake View,MG Road,Mumbai,Telangana,other,+912528757432,022-56609982,cricket,M.Sc,NIT
+Rohit,Kumar,22,A-631 Rakshak Society,Ring Road,Bangalore,Tamil Nadu,female,+918240483745,022-38996395,cooking,MBA,Mumbai University
+Kavya,Mehta,69,Q-739 Rakshak Society,MG Road,Delhi,Telangana,male,+912401148379,022-96599537,cooking,B.Com,NIT
+Rohit,Kumar,77,A-627 Green Park,Main Street,Pune,Maharashtra,male,+915377421148,022-56010320,gaming,M.Tech,Pune University
+Vikram,Gupta,43,R-377 Royal Apartments,Main Street,Bangalore,Tamil Nadu,other,+919099086127,022-16291486,cricket,B.Sc,NIT
+Sneha,Kumar,71,K-635 Rakshak Society,Ring Road,Chennai,West Bengal,male,+914700049197,022-82876249,reading,MBA,NIT
+Priya,Mehta,31,Z-809 Royal Apartments,New Pune Road,Kolkata,Tamil Nadu,female,+911952482334,022-93048759,reading,M.Sc,NIT
+Rajesh,Kumar,24,O-106 Green Park,Main Street,Bangalore,West Bengal,other,+911293747434,022-12209580,cricket,M.Sc,Anna University
+Priya,Patel,51,Z-608 Green Park,Main Street,Mumbai,Tamil Nadu,female,+916607528888,022-61044051,gaming,MBA,NIT
+Kavya,Reddy,25,V-393 Green Park,MG Road,Mumbai,Delhi,other,+917043308643,022-90611662,music,MBA,NIT
+Amit,Iyer,41,V-186 Green Park,Ring Road,Pune,Delhi,male,+911482528000,022-18505242,traveling,B.Sc,IIT
+Kavya,Prasad,37,E-86 Rakshak Society,Ring Road,Delhi,Delhi,other,+916093716107,022-77800031,traveling,B.Tech,Anna University
+Kavya,Sharma,63,Y-371 Royal Apartments,Main Street,Hyderabad,Delhi,male,+917396010803,022-61633105,cricket,B.Tech,NIT
+Amit,Singh,37,B-923 Green Park,Ring Road,Delhi,West Bengal,male,+913483153474,022-82338584,cooking,B.Com,IIT
+Kavya,Desai,22,B-410 Rakshak Society,Ring Road,Mumbai,West Bengal,male,+913835095821,022-79065655,cricket,MBA,IIT
+Arjun,Iyer,35,H-662 Royal Apartments,Main Street,Chennai,Tamil Nadu,other,+914314478303,022-16249686,music,B.Tech,Mumbai University
+Anita,Reddy,79,Y-870 Lake View,Ring Road,Hyderabad,Telangana,other,+915169611492,022-62116875,traveling,B.Sc,Pune University
+Rohit,Kumar,79,P-16 Green Park,New Pune Road,Chennai,West Bengal,other,+911695189219,022-73551835,gaming,B.Tech,Mumbai University
+Arjun,Singh,63,Y-603 Royal Apartments,New Pune Road,Delhi,West Bengal,female,+913659165727,022-27223890,traveling,B.Tech,Pune University
+Arjun,Prasad,58,U-784 Green Park,MG Road,Chennai,Tamil Nadu,male,+919584944057,022-67333108,music,MBA,NIT
+Priya,Sharma,36,I-163 Rakshak Society,New Pune Road,Hyderabad,Karnataka,female,+915010872756,022-71189176,music,M.Tech,Mumbai University
+Kavya,Kumar,41,G-559 Rakshak Society,MG Road,Chennai,Tamil Nadu,female,+919551409126,022-12373588,gaming,MBA,Mumbai University
+Sneha,Desai,17,W-675 Green Park,Ring Road,Bangalore,Delhi,other,+917502440483,022-58192889,reading,B.Sc,Anna University
+Rohit,Patel,33,U-580 Lake View,MG Road,Mumbai,Delhi,other,+911038912679,022-96643765,cricket,MBA,Pune University
+Rohit,Patel,64,B-717 Royal Apartments,Ring Road,Bangalore,Delhi,other,+919442994956,022-33172636,cooking,M.Tech,Pune University
+Arjun,Kumar,19,C-343 Rakshak Society,Ring Road,Kolkata,Maharashtra,other,+918866723228,022-11705278,traveling,B.Sc,IIT
+Deepika,Mehta,15,B-163 Lake View,MG Road,Pune,Maharashtra,other,+912279780489,022-50875358,reading,M.Tech,Pune University
+Rajesh,Singh,59,K-640 Rakshak Society,Main Street,Chennai,Karnataka,other,+914815223004,022-18930293,reading,B.Tech,Anna University
+Amit,Reddy,27,N-962 Green Park,MG Road,Kolkata,Delhi,other,+911767904903,022-58270966,gaming,B.Sc,Pune University
+Sneha,Singh,74,E-120 Rakshak Society,New Pune Road,Mumbai,Tamil Nadu,female,+919051443182,022-20137114,reading,B.Com,NIT
+Kavya,Iyer,40,M-855 Royal Apartments,MG Road,Mumbai,Telangana,female,+915343912762,022-82656238,traveling,B.Tech,IIT
+Arjun,Sharma,17,F-422 Rakshak Society,MG Road,Bangalore,Karnataka,male,+917770741799,022-97711029,music,M.Tech,NIT
+Deepika,Desai,68,S-242 Royal Apartments,MG Road,Hyderabad,Karnataka,male,+918791056436,022-67447149,music,MBA,IIT
+Kavya,Gupta,74,B-399 Royal Apartments,New Pune Road,Kolkata,Delhi,female,+911558258956,022-14399040,traveling,M.Tech,IIT
+Arjun,Mehta,59,T-209 Royal Apartments,Main Street,Chennai,Karnataka,female,+916084312498,022-86473439,cooking,B.Sc,Mumbai University
+Rohit,Desai,33,E-154 Green Park,Main Street,Bangalore,Karnataka,other,+914209657588,022-92494847,cooking,B.Sc,Mumbai University
+Sneha,Mehta,21,I-698 Rakshak Society,New Pune Road,Delhi,Delhi,male,+912414261784,022-51604530,traveling,MBA,Mumbai University
+Vikram,Patel,46,G-156 Rakshak Society,Ring Road,Delhi,West Bengal,male,+912406313250,022-38255863,cricket,M.Sc,Pune University
+Anita,Patel,58,M-29 Lake View,Ring Road,Pune,West Bengal,other,+913659703333,022-70541215,gaming,MBA,Pune University
+Priya,Desai,72,N-404 Green Park,Ring Road,Hyderabad,Maharashtra,female,+914320921040,022-73604042,traveling,MBA,NIT
+Vikram,Mehta,34,E-652 Rakshak Society,Main Street,Hyderabad,West Bengal,male,+913508166522,022-71528842,music,M.Tech,IIT
+Arjun,Iyer,72,F-264 Green Park,Ring Road,Chennai,Delhi,other,+911761381854,022-76899211,gaming,B.Com,IIT
+Rohit,Reddy,74,T-521 Rakshak Society,New Pune Road,Hyderabad,Tamil Nadu,male,+918638275471,022-63182521,gaming,M.Sc,Mumbai University
+Sneha,Prasad,70,J-458 Green Park,Main Street,Pune,Delhi,male,+919319234329,022-17411704,cooking,B.Sc,Pune University
+Anita,Singh,61,T-946 Green Park,Ring Road,Chennai,Telangana,other,+917233076711,022-74128707,cricket,M.Tech,Mumbai University
+Kavya,Reddy,73,E-113 Rakshak Society,New Pune Road,Kolkata,Delhi,other,+919929153986,022-81902631,cricket,B.Com,IIT
+Kavya,Mehta,20,F-26 Lake View,Main Street,Hyderabad,Delhi,male,+912595482560,022-40295533,traveling,MBA,Pune University
+Rajesh,Sharma,46,X-819 Green Park,Main Street,Mumbai,Telangana,male,+918913551156,022-30359560,music,B.Com,IIT
+Rohit,Patel,62,D-610 Rakshak Society,Ring Road,Chennai,Karnataka,female,+912760158376,022-69299672,gaming,M.Tech,Anna University
+Deepika,Prasad,75,I-320 Lake View,Ring Road,Pune,Maharashtra,other,+914695209436,022-26381580,music,B.Sc,IIT
+Deepika,Gupta,81,B-401 Green Park,Ring Road,Chennai,Delhi,female,+912035052576,022-45682682,gaming,M.Tech,NIT
+Rohit,Gupta,75,K-499 Green Park,Main Street,Bangalore,Telangana,male,+911168949915,022-18893446,reading,B.Sc,Mumbai University
+Priya,Patel,67,M-420 Lake View,MG Road,Pune,Maharashtra,female,+917633361357,022-26910544,gaming,MBA,IIT
+Arjun,Iyer,19,P-755 Green Park,New Pune Road,Bangalore,Karnataka,other,+918117463955,022-51295713,gaming,B.Com,IIT
+Rohit,Mehta,83,Q-15 Rakshak Society,MG Road,Chennai,West Bengal,male,+912251960563,022-53707734,gaming,B.Com,NIT
+Priya,Singh,78,E-5 Royal Apartments,Main Street,Kolkata,Telangana,other,+918819836365,022-87999688,gaming,M.Tech,Pune University
+Deepika,Desai,23,P-269 Lake View,New Pune Road,Pune,West Bengal,male,+915706839363,022-49943638,reading,MBA,Mumbai University
+Priya,Prasad,33,M-468 Royal Apartments,Ring Road,Delhi,Telangana,female,+916333349587,022-75667722,music,MBA,Pune University
+Rohit,Mehta,64,N-238 Lake View,New Pune Road,Mumbai,Karnataka,male,+913427742796,022-49550137,music,B.Sc,Anna University
+Kavya,Reddy,74,A-381 Royal Apartments,New Pune Road,Hyderabad,Telangana,female,+915931843139,022-78743009,traveling,MBA,Mumbai University
+Rajesh,Reddy,62,B-448 Green Park,New Pune Road,Hyderabad,Telangana,other,+911358923736,022-82498704,cooking,B.Sc,IIT
+Sneha,Reddy,31,G-261 Rakshak Society,Ring Road,Delhi,Maharashtra,male,+919410621706,022-14398122,traveling,B.Sc,IIT
+Arjun,Iyer,21,H-853 Lake View,MG Road,Hyderabad,Maharashtra,male,+915235672813,022-14155902,gaming,MBA,NIT
+Amit,Patel,15,D-258 Royal Apartments,MG Road,Hyderabad,Tamil Nadu,other,+912064041634,022-71861643,reading,B.Com,Pune University
+Anita,Prasad,35,P-473 Rakshak Society,MG Road,Hyderabad,Karnataka,female,+914719789142,022-48273208,music,MBA,Anna University
+Arjun,Gupta,18,U-654 Rakshak Society,New Pune Road,Chennai,Tamil Nadu,female,+911492323522,022-65314984,music,B.Com,NIT
+Arjun,Kumar,23,H-799 Lake View,MG Road,Chennai,Tamil Nadu,other,+917320513977,022-15649895,cricket,M.Sc,Mumbai University
+Rajesh,Reddy,82,I-586 Lake View,New Pune Road,Kolkata,Telangana,male,+912759535343,022-57066627,music,M.Sc,Pune University
+Amit,Singh,25,L-898 Lake View,Ring Road,Hyderabad,West Bengal,male,+917469628813,022-37868773,traveling,B.Sc,NIT
+Vikram,Gupta,48,C-612 Rakshak Society,Main Street,Kolkata,Karnataka,female,+912520647465,022-22080265,gaming,B.Com,Mumbai University
+Anita,Kumar,59,F-752 Green Park,Ring Road,Kolkata,West Bengal,male,+919559467647,022-12422599,cooking,B.Sc,NIT
+Anita,Patel,15,G-32 Lake View,Main Street,Mumbai,Delhi,other,+917438114772,022-59792678,music,M.Tech,NIT
+Priya,Kumar,58,S-366 Green Park,MG Road,Delhi,Delhi,female,+912940758279,022-17072194,music,M.Tech,IIT
+Sneha,Patel,17,E-864 Lake View,Ring Road,Hyderabad,Telangana,other,+914179554260,022-71959446,cooking,B.Com,NIT
+Priya,Reddy,50,D-330 Lake View,New Pune Road,Chennai,Karnataka,other,+913822047444,022-75487080,cooking,B.Com,Anna University
+Rajesh,Mehta,28,V-85 Green Park,Main Street,Chennai,West Bengal,other,+916830299112,022-15084517,cricket,B.Com,Pune University
+Vikram,Mehta,64,N-404 Royal Apartments,Main Street,Chennai,Tamil Nadu,other,+914953685509,022-23432531,traveling,M.Tech,Mumbai University
+Vikram,Desai,75,V-512 Royal Apartments,New Pune Road,Bangalore,Karnataka,male,+918410329326,022-32446044,gaming,B.Com,NIT
+Amit,Reddy,69,F-758 Rakshak Society,New Pune Road,Pune,Telangana,female,+912575024649,022-19339008,gaming,M.Sc,Mumbai University
+Priya,Reddy,16,W-113 Rakshak Society,Ring Road,Kolkata,Karnataka,other,+917900931346,022-90585087,music,B.Tech,Anna University
+Amit,Kumar,24,A-656 Lake View,MG Road,Bangalore,West Bengal,female,+913532611533,022-54178793,cooking,B.Tech,Anna University
+Anita,Patel,72,N-210 Rakshak Society,Ring Road,Bangalore,Telangana,other,+911898100483,022-21486491,cricket,MBA,NIT
+Rohit,Gupta,51,K-86 Rakshak Society,New Pune Road,Delhi,Delhi,other,+916458637296,022-62662703,cricket,B.Tech,Anna University
+Arjun,Sharma,52,F-312 Green Park,New Pune Road,Mumbai,Karnataka,female,+915088880461,022-61405162,cricket,MBA,Mumbai University
+Sneha,Mehta,38,N-213 Green Park,New Pune Road,Pune,West Bengal,female,+917204400430,022-72629906,traveling,MBA,IIT
+Priya,Patel,43,D-186 Green Park,New Pune Road,Mumbai,Tamil Nadu,male,+916352097949,022-41360396,cricket,MBA,Pune University
+Arjun,Kumar,41,B-658 Lake View,Ring Road,Pune,West Bengal,male,+915506331306,022-69197985,reading,B.Com,Anna University
+Anita,Singh,59,I-772 Royal Apartments,MG Road,Mumbai,Delhi,male,+919953325541,022-45864177,reading,B.Com,IIT
+Deepika,Desai,37,W-586 Rakshak Society,New Pune Road,Delhi,Maharashtra,other,+918262945695,022-70289617,traveling,MBA,Mumbai University
+Anita,Mehta,76,Z-339 Green Park,Main Street,Bangalore,Delhi,other,+916869748908,022-36071751,cricket,MBA,IIT
+Vikram,Gupta,63,Z-6 Green Park,New Pune Road,Hyderabad,Maharashtra,female,+911196091663,022-70227341,traveling,M.Tech,Pune University
+Deepika,Kumar,49,P-929 Lake View,Main Street,Bangalore,West Bengal,female,+912748859975,022-68616349,gaming,MBA,Pune University
+Priya,Sharma,75,I-474 Rakshak Society,New Pune Road,Mumbai,Karnataka,other,+918874006734,022-72143089,music,B.Com,IIT
+Vikram,Kumar,67,M-180 Green Park,Ring Road,Pune,Karnataka,male,+919722323731,022-10104935,gaming,M.Tech,NIT
+Vikram,Sharma,33,A-735 Royal Apartments,MG Road,Hyderabad,Tamil Nadu,male,+917705246579,022-61547788,cooking,B.Sc,IIT
+Sneha,Desai,78,Z-268 Royal Apartments,MG Road,Delhi,Karnataka,male,+913772203662,022-99520298,cooking,M.Sc,Anna University
+Priya,Mehta,49,G-72 Rakshak Society,Main Street,Bangalore,Karnataka,other,+917114559137,022-80572327,traveling,B.Sc,Anna University
+Deepika,Desai,28,U-330 Royal Apartments,Ring Road,Kolkata,Telangana,female,+915286029625,022-13841434,gaming,M.Sc,Anna University
+Rohit,Kumar,84,J-916 Lake View,Ring Road,Mumbai,Tamil Nadu,male,+918695212478,022-12418715,cooking,B.Tech,Anna University
+Sneha,Desai,17,F-584 Royal Apartments,Main Street,Delhi,Tamil Nadu,other,+916829059264,022-35460528,cooking,B.Com,NIT
+Anita,Mehta,66,L-659 Royal Apartments,Main Street,Mumbai,Tamil Nadu,other,+914600481428,022-97291252,gaming,B.Tech,NIT
+Vikram,Patel,23,N-880 Lake View,Ring Road,Mumbai,Karnataka,female,+917473809176,022-11609595,cricket,B.Com,IIT
+Vikram,Patel,48,S-259 Lake View,Ring Road,Chennai,Delhi,other,+913510890271,022-42276433,gaming,B.Tech,NIT
+Amit,Gupta,57,S-793 Lake View,Ring Road,Chennai,West Bengal,female,+916547542321,022-47365527,cooking,M.Tech,NIT
+Sneha,Mehta,74,C-597 Rakshak Society,Main Street,Bangalore,Karnataka,male,+919859405610,022-38855869,music,B.Tech,Anna University
+Sneha,Reddy,82,G-246 Royal Apartments,Main Street,Pune,Telangana,female,+916217376079,022-47589243,traveling,M.Tech,NIT
+Priya,Gupta,16,F-272 Lake View,New Pune Road,Bangalore,West Bengal,male,+915886840372,022-61040989,reading,M.Sc,Anna University
+Amit,Reddy,62,S-451 Green Park,New Pune Road,Chennai,Maharashtra,male,+919741695710,022-77205755,traveling,B.Com,NIT
+Arjun,Singh,37,I-602 Green Park,MG Road,Chennai,Maharashtra,other,+916551253661,022-54863368,cricket,M.Tech,IIT
+Rohit,Mehta,16,P-79 Rakshak Society,New Pune Road,Hyderabad,Telangana,female,+918332995005,022-88793180,cricket,B.Sc,Pune University
+Sneha,Iyer,50,R-597 Rakshak Society,New Pune Road,Kolkata,Karnataka,male,+915405303029,022-27644869,music,M.Sc,NIT
+Amit,Gupta,31,C-991 Green Park,Main Street,Pune,Delhi,male,+912947624641,022-41565743,reading,B.Com,IIT
+Vikram,Patel,52,L-249 Rakshak Society,New Pune Road,Hyderabad,Karnataka,other,+912004251142,022-98500013,reading,MBA,Pune University
+Sneha,Sharma,56,U-80 Green Park,New Pune Road,Mumbai,Karnataka,male,+911277316219,022-12758943,cooking,MBA,Mumbai University
+Rajesh,Patel,72,G-557 Lake View,Ring Road,Bangalore,Tamil Nadu,other,+915664262902,022-22309636,cooking,MBA,IIT
+Deepika,Singh,25,F-327 Lake View,New Pune Road,Hyderabad,Delhi,female,+914855084658,022-65672352,cricket,B.Sc,NIT
+Deepika,Mehta,43,P-55 Rakshak Society,Ring Road,Hyderabad,Delhi,female,+914912188029,022-38638173,music,M.Tech,Pune University
+Kavya,Reddy,17,F-98 Lake View,Main Street,Bangalore,Tamil Nadu,male,+913781135755,022-17595233,cooking,B.Com,Anna University
+Arjun,Prasad,79,E-464 Lake View,MG Road,Hyderabad,Delhi,male,+919410353137,022-95538136,reading,B.Tech,Mumbai University
+Deepika,Reddy,66,I-297 Rakshak Society,Main Street,Hyderabad,Karnataka,other,+916334959222,022-40152454,cricket,B.Com,Anna University
+Arjun,Gupta,57,R-264 Royal Apartments,Ring Road,Kolkata,Karnataka,male,+916494784725,022-38863443,gaming,B.Sc,Mumbai University
+Rohit,Desai,44,L-441 Lake View,New Pune Road,Delhi,West Bengal,male,+919499782273,022-49974854,cooking,B.Sc,IIT
+Sneha,Singh,44,I-871 Lake View,Main Street,Bangalore,Delhi,male,+916737224820,022-82003775,reading,B.Sc,Anna University
+Rajesh,Kumar,72,C-17 Royal Apartments,New Pune Road,Bangalore,Delhi,male,+916771226735,022-47286705,traveling,M.Sc,NIT
+Priya,Singh,39,A-849 Royal Apartments,MG Road,Kolkata,Karnataka,female,+911034226998,022-66965186,reading,B.Com,NIT
+Deepika,Prasad,66,Y-180 Green Park,New Pune Road,Delhi,Karnataka,male,+917468224918,022-89723462,cooking,MBA,Mumbai University
+Vikram,Iyer,78,H-796 Royal Apartments,New Pune Road,Mumbai,Telangana,other,+916970839447,022-99655440,reading,B.Tech,Anna University
+Vikram,Iyer,59,Y-509 Lake View,New Pune Road,Chennai,Tamil Nadu,female,+917219995717,022-48266081,cricket,B.Com,Anna University
+Rajesh,Gupta,33,N-694 Royal Apartments,New Pune Road,Hyderabad,Tamil Nadu,male,+918673241620,022-38293620,cricket,M.Tech,Mumbai University
+Sneha,Mehta,52,M-784 Lake View,MG Road,Bangalore,Karnataka,male,+911694965141,022-30438308,music,MBA,Anna University
+Amit,Patel,56,X-835 Lake View,New Pune Road,Kolkata,Tamil Nadu,female,+911020321622,022-77344429,cricket,MBA,NIT
+Anita,Mehta,62,R-376 Green Park,Ring Road,Delhi,Karnataka,female,+915372942518,022-58365307,cricket,M.Sc,NIT
+Amit,Iyer,54,W-952 Green Park,New Pune Road,Kolkata,Tamil Nadu,male,+911957143406,022-10504858,cooking,M.Sc,NIT
+Sneha,Iyer,33,N-671 Rakshak Society,Ring Road,Kolkata,Delhi,male,+916886838579,022-50187996,cooking,MBA,Pune University
+Rohit,Iyer,41,V-56 Rakshak Society,MG Road,Delhi,Delhi,other,+915009135819,022-40801572,cricket,B.Tech,IIT
+Amit,Iyer,33,R-640 Green Park,Ring Road,Hyderabad,Maharashtra,female,+915443893719,022-99750456,music,M.Tech,Pune University
+Rohit,Reddy,66,M-477 Lake View,Ring Road,Kolkata,Maharashtra,male,+914377863763,022-48486934,traveling,M.Tech,NIT
+Rajesh,Sharma,50,G-267 Royal Apartments,Main Street,Mumbai,West Bengal,female,+913864219445,022-93452514,reading,M.Sc,Mumbai University
+Priya,Gupta,46,W-953 Rakshak Society,MG Road,Hyderabad,Delhi,female,+911849780536,022-23049519,cricket,B.Tech,Pune University
+Vikram,Sharma,31,P-228 Royal Apartments,Ring Road,Kolkata,Tamil Nadu,other,+916188471923,022-51899798,cooking,M.Tech,Anna University
+Priya,Gupta,45,R-296 Lake View,Ring Road,Chennai,Tamil Nadu,male,+917974264351,022-45537440,reading,MBA,NIT
+Arjun,Mehta,82,N-949 Green Park,Main Street,Delhi,West Bengal,female,+912139840769,022-86697278,music,B.Tech,NIT
+Arjun,Prasad,73,G-264 Royal Apartments,Ring Road,Pune,Telangana,female,+913281444206,022-95443980,reading,B.Sc,Anna University
+Amit,Sharma,32,B-74 Lake View,Ring Road,Bangalore,Delhi,other,+915489600649,022-21260606,cooking,B.Tech,Anna University
+Arjun,Desai,43,J-108 Royal Apartments,New Pune Road,Delhi,West Bengal,other,+918595206506,022-90379450,reading,B.Tech,Anna University
+Rajesh,Kumar,82,P-721 Royal Apartments,MG Road,Bangalore,West Bengal,female,+916538662173,022-37420830,gaming,M.Sc,Mumbai University
+Arjun,Mehta,57,R-93 Lake View,Main Street,Chennai,Telangana,female,+919617634487,022-29875666,reading,B.Com,NIT
+Vikram,Iyer,35,P-733 Royal Apartments,MG Road,Bangalore,Delhi,other,+914473213976,022-10616913,traveling,B.Tech,Mumbai University
+Priya,Iyer,32,F-148 Lake View,MG Road,Chennai,Tamil Nadu,other,+917702779371,022-91418654,reading,MBA,Pune University
+Kavya,Desai,77,N-108 Royal Apartments,Ring Road,Delhi,Karnataka,female,+915430273677,022-57704960,music,M.Sc,Anna University
+Amit,Patel,57,Y-863 Royal Apartments,Ring Road,Kolkata,Tamil Nadu,female,+913813081985,022-86146721,music,B.Com,NIT
+Anita,Sharma,24,T-846 Royal Apartments,Main Street,Mumbai,Maharashtra,female,+916251064648,022-74919149,music,M.Tech,NIT
+Priya,Singh,39,A-492 Green Park,MG Road,Bangalore,Maharashtra,other,+912442586388,022-89877569,gaming,MBA,Anna University
+Deepika,Desai,27,L-585 Green Park,Main Street,Bangalore,Delhi,male,+911640312582,022-83411242,music,M.Tech,Mumbai University
+Rajesh,Mehta,71,X-360 Royal Apartments,Ring Road,Mumbai,Tamil Nadu,female,+911473705985,022-70184383,cooking,M.Sc,Anna University
+Vikram,Prasad,49,F-376 Royal Apartments,Ring Road,Kolkata,Delhi,other,+918235656327,022-93123694,cricket,MBA,Anna University
+Priya,Mehta,50,K-78 Lake View,Main Street,Mumbai,West Bengal,male,+912978802433,022-78152720,cooking,MBA,Pune University
+Rohit,Prasad,37,F-242 Royal Apartments,Main Street,Bangalore,Maharashtra,female,+915049837464,022-64332623,traveling,B.Sc,IIT
+Deepika,Singh,32,R-545 Green Park,Main Street,Delhi,Karnataka,other,+911002578110,022-64195195,traveling,MBA,Mumbai University
+Arjun,Sharma,47,H-511 Lake View,New Pune Road,Bangalore,Karnataka,male,+916200180512,022-75784334,reading,M.Sc,IIT
+Anita,Sharma,15,T-329 Lake View,New Pune Road,Hyderabad,West Bengal,female,+918892502802,022-64218000,music,B.Tech,Pune University
+Amit,Reddy,63,C-762 Royal Apartments,Ring Road,Kolkata,Telangana,male,+912359542952,022-16413333,cooking,B.Sc,NIT
+Arjun,Kumar,64,F-408 Green Park,Ring Road,Pune,Delhi,male,+916392708102,022-54655761,reading,M.Sc,Mumbai University
+Sneha,Singh,63,R-23 Green Park,MG Road,Delhi,Delhi,female,+919476851059,022-52022127,music,B.Tech,Pune University
+Arjun,Patel,17,P-820 Rakshak Society,Ring Road,Chennai,Tamil Nadu,male,+915272715223,022-88300040,cooking,MBA,IIT
+Arjun,Iyer,43,R-837 Royal Apartments,Ring Road,Chennai,Tamil Nadu,other,+917387002942,022-27510559,traveling,MBA,NIT
+Priya,Prasad,22,A-440 Green Park,New Pune Road,Kolkata,Telangana,male,+913639971709,022-32353070,cricket,B.Sc,Pune University
+Kavya,Kumar,77,K-224 Lake View,MG Road,Delhi,Tamil Nadu,male,+913882718598,022-17830463,gaming,B.Tech,Mumbai University
+Rohit,Singh,44,I-262 Rakshak Society,New Pune Road,Hyderabad,Maharashtra,male,+918069079380,022-37069044,music,B.Sc,Pune University
+Amit,Gupta,36,Z-121 Royal Apartments,New Pune Road,Hyderabad,Karnataka,male,+917102466237,022-84519613,gaming,M.Tech,Pune University
+Anita,Reddy,72,P-680 Rakshak Society,Ring Road,Hyderabad,Karnataka,other,+919066398446,022-85266988,cricket,B.Com,NIT
+Arjun,Iyer,39,J-848 Green Park,New Pune Road,Bangalore,Tamil Nadu,other,+919533225194,022-36937108,gaming,M.Tech,NIT
+Kavya,Desai,50,K-534 Rakshak Society,New Pune Road,Mumbai,Delhi,male,+916788483860,022-10030669,cricket,B.Com,Mumbai University
+Amit,Iyer,80,U-14 Lake View,MG Road,Delhi,Tamil Nadu,female,+916593281625,022-20155123,cricket,M.Tech,NIT
+Deepika,Singh,75,O-205 Rakshak Society,Ring Road,Bangalore,Tamil Nadu,female,+912198190886,022-12826239,cricket,M.Tech,IIT
+Rajesh,Gupta,59,T-463 Green Park,Main Street,Hyderabad,Karnataka,male,+918954993063,022-21989945,reading,B.Com,IIT
+Kavya,Mehta,71,A-969 Royal Apartments,New Pune Road,Pune,Karnataka,other,+914738752139,022-31997954,music,B.Sc,Mumbai University
+Sneha,Kumar,23,D-575 Green Park,New Pune Road,Kolkata,West Bengal,other,+918135113500,022-86062219,cooking,M.Sc,IIT
+Anita,Patel,73,J-664 Royal Apartments,Main Street,Bangalore,Delhi,male,+919045893636,022-77011918,gaming,M.Tech,Mumbai University
+Priya,Gupta,24,N-641 Green Park,New Pune Road,Pune,Karnataka,female,+919519065107,022-38859240,cooking,B.Sc,IIT
+Amit,Patel,63,S-511 Green Park,Main Street,Delhi,Delhi,female,+919152439245,022-50518714,cricket,MBA,NIT
+Rohit,Sharma,50,J-814 Lake View,New Pune Road,Bangalore,Tamil Nadu,male,+917854317062,022-17782395,gaming,MBA,Pune University
+Sneha,Kumar,23,Z-83 Rakshak Society,Ring Road,Hyderabad,West Bengal,male,+917608410853,022-70215626,traveling,B.Sc,Pune University
+Arjun,Kumar,20,G-829 Green Park,New Pune Road,Mumbai,Maharashtra,female,+916692957283,022-27540337,gaming,M.Tech,NIT
+Anita,Gupta,30,M-743 Lake View,New Pune Road,Mumbai,Tamil Nadu,other,+918423301282,022-16025102,gaming,M.Tech,Mumbai University
+Priya,Kumar,29,Z-988 Lake View,MG Road,Hyderabad,Delhi,male,+918937313353,022-70638741,music,MBA,IIT
+Amit,Mehta,58,B-280 Green Park,MG Road,Bangalore,West Bengal,male,+914034231504,022-99078886,traveling,B.Com,Mumbai University
+Amit,Iyer,81,D-218 Royal Apartments,MG Road,Pune,Maharashtra,female,+917299020032,022-40711596,music,B.Tech,Anna University
+Priya,Patel,73,C-844 Lake View,New Pune Road,Mumbai,Telangana,other,+913891977488,022-59810885,reading,B.Tech,Pune University
+Arjun,Sharma,32,H-560 Lake View,Main Street,Hyderabad,Delhi,female,+911717621656,022-78747267,cricket,M.Sc,Mumbai University
+Priya,Iyer,35,X-658 Rakshak Society,Main Street,Mumbai,Tamil Nadu,male,+917622573368,022-79232528,cooking,B.Com,Pune University
+Arjun,Desai,76,P-453 Rakshak Society,Ring Road,Mumbai,Delhi,female,+915762229336,022-20913264,cooking,MBA,NIT
+Deepika,Sharma,74,C-776 Rakshak Society,Ring Road,Pune,West Bengal,male,+916385821063,022-90741896,traveling,B.Sc,Mumbai University
+Kavya,Reddy,32,G-828 Rakshak Society,Ring Road,Pune,Karnataka,female,+916630359843,022-85199475,gaming,B.Tech,NIT
+Rohit,Singh,37,H-43 Rakshak Society,MG Road,Pune,Tamil Nadu,female,+915444866262,022-39771860,cricket,B.Tech,Mumbai University
+Priya,Gupta,32,C-801 Royal Apartments,Ring Road,Delhi,Maharashtra,other,+918810875307,022-86507787,traveling,M.Sc,Mumbai University
+Deepika,Singh,27,U-764 Rakshak Society,Main Street,Kolkata,Delhi,other,+914110586817,022-21008865,cricket,B.Tech,Pune University
+Rohit,Iyer,34,C-617 Lake View,Main Street,Kolkata,Delhi,female,+918959027438,022-67060995,gaming,B.Tech,Anna University
+Anita,Iyer,83,P-89 Lake View,MG Road,Bangalore,Tamil Nadu,female,+919020411038,022-76384417,traveling,B.Com,NIT
+Amit,Mehta,71,G-908 Lake View,New Pune Road,Chennai,West Bengal,male,+917922881721,022-63254437,traveling,M.Sc,Anna University
+Anita,Desai,65,X-945 Rakshak Society,Main Street,Hyderabad,Delhi,male,+912707011427,022-34621962,gaming,B.Com,NIT
+Vikram,Iyer,30,V-881 Green Park,New Pune Road,Delhi,Karnataka,female,+913548802338,022-95136235,reading,M.Tech,NIT
+Sneha,Patel,18,K-353 Rakshak Society,New Pune Road,Delhi,Karnataka,female,+913078003911,022-11509003,reading,M.Tech,NIT
+Sneha,Iyer,34,P-343 Green Park,MG Road,Mumbai,Telangana,female,+912832753102,022-51777015,reading,M.Tech,Anna University
+Deepika,Desai,39,E-916 Rakshak Society,Ring Road,Delhi,West Bengal,other,+919124069495,022-63100010,traveling,M.Tech,IIT
+Rohit,Sharma,29,H-984 Lake View,New Pune Road,Delhi,Telangana,female,+915881854287,022-66232603,reading,MBA,Mumbai University
+Deepika,Mehta,50,Y-167 Royal Apartments,New Pune Road,Delhi,Tamil Nadu,other,+913635056793,022-21224021,reading,M.Tech,Mumbai University
+Rohit,Desai,49,B-731 Royal Apartments,Main Street,Mumbai,Karnataka,female,+912767618493,022-84378828,cricket,M.Tech,IIT
+Rajesh,Gupta,45,U-764 Rakshak Society,MG Road,Hyderabad,Karnataka,female,+916720745423,022-92124301,traveling,B.Tech,NIT
+Deepika,Kumar,84,B-12 Royal Apartments,New Pune Road,Pune,West Bengal,other,+917557912630,022-97106836,cricket,M.Sc,Pune University
+Sneha,Reddy,60,S-597 Green Park,New Pune Road,Chennai,Tamil Nadu,other,+917599683042,022-76188031,gaming,B.Tech,Mumbai University
+Arjun,Mehta,45,E-342 Lake View,Ring Road,Chennai,Telangana,female,+919795129200,022-34494503,music,B.Sc,Mumbai University
+Deepika,Desai,32,T-37 Rakshak Society,Main Street,Kolkata,West Bengal,male,+918075102364,022-73937955,reading,M.Tech,Anna University
+Sneha,Iyer,75,R-294 Lake View,MG Road,Hyderabad,Karnataka,female,+919206911403,022-60166728,gaming,MBA,IIT
+Anita,Prasad,38,O-148 Lake View,MG Road,Delhi,Telangana,other,+911909086636,022-50253570,cooking,B.Sc,NIT
+Anita,Kumar,35,Q-131 Rakshak Society,Ring Road,Kolkata,Karnataka,other,+915990170752,022-62808285,gaming,MBA,Anna University
+Arjun,Patel,52,R-309 Green Park,New Pune Road,Pune,West Bengal,male,+919072955031,022-88738778,reading,B.Com,Anna University
+Sneha,Desai,43,F-417 Green Park,Main Street,Hyderabad,Delhi,other,+914693013456,022-44315290,cooking,M.Sc,Pune University
+Amit,Desai,29,A-404 Lake View,MG Road,Hyderabad,Delhi,other,+911032113940,022-29846565,music,B.Tech,Anna University
+Vikram,Sharma,30,A-175 Green Park,Ring Road,Mumbai,Maharashtra,other,+914354612660,022-99797195,cricket,M.Tech,NIT
+Sneha,Iyer,55,N-199 Rakshak Society,New Pune Road,Kolkata,Tamil Nadu,other,+916499071615,022-62213404,gaming,B.Sc,Pune University
+Priya,Kumar,40,E-374 Green Park,MG Road,Hyderabad,Karnataka,other,+914561181638,022-46888785,music,B.Sc,NIT
+Vikram,Desai,54,S-859 Rakshak Society,Main Street,Pune,Telangana,other,+913029251052,022-60399527,gaming,M.Sc,NIT
+Vikram,Desai,59,Q-885 Royal Apartments,Ring Road,Mumbai,West Bengal,male,+916269541175,022-45406360,music,B.Tech,IIT
+Rajesh,Desai,26,A-215 Rakshak Society,Main Street,Chennai,Tamil Nadu,male,+916033135997,022-66493566,cooking,B.Com,NIT
+Arjun,Desai,60,A-997 Rakshak Society,Main Street,Hyderabad,Karnataka,other,+917289176434,022-80468899,gaming,B.Tech,Anna University
+Arjun,Sharma,35,X-609 Lake View,MG Road,Hyderabad,Telangana,female,+913017736520,022-14081725,cooking,MBA,Pune University
+Rajesh,Patel,62,W-346 Green Park,Ring Road,Hyderabad,Karnataka,other,+914165023275,022-91947422,music,B.Sc,Mumbai University
+Anita,Sharma,27,A-103 Rakshak Society,Ring Road,Bangalore,Tamil Nadu,other,+911932750622,022-32452050,gaming,B.Sc,Mumbai University
+Anita,Prasad,61,N-778 Royal Apartments,New Pune Road,Hyderabad,Karnataka,other,+914101163279,022-34220281,gaming,B.Sc,IIT
+Vikram,Sharma,33,D-405 Rakshak Society,Ring Road,Hyderabad,Delhi,other,+915590023092,022-12617205,cooking,MBA,Pune University
+Vikram,Desai,38,R-708 Royal Apartments,MG Road,Hyderabad,Telangana,other,+917475177595,022-89051597,cricket,B.Sc,IIT
+Deepika,Sharma,61,X-538 Rakshak Society,Ring Road,Pune,West Bengal,other,+916237184434,022-81546463,traveling,B.Tech,IIT
+Vikram,Kumar,35,A-539 Green Park,MG Road,Hyderabad,Maharashtra,female,+918826442673,022-73309756,cooking,B.Tech,NIT
+Kavya,Reddy,29,U-370 Royal Apartments,Main Street,Chennai,Telangana,other,+911755916555,022-50770927,cricket,M.Tech,NIT
+Anita,Patel,51,E-860 Green Park,Main Street,Kolkata,West Bengal,male,+911065851420,022-63432305,cricket,B.Sc,IIT
+Rajesh,Iyer,27,W-263 Rakshak Society,MG Road,Chennai,West Bengal,female,+911973317565,022-47528567,reading,M.Sc,IIT
+Rajesh,Desai,63,H-905 Rakshak Society,New Pune Road,Delhi,Tamil Nadu,female,+911995256175,022-32938829,cricket,M.Tech,IIT
+Vikram,Iyer,35,H-44 Rakshak Society,Ring Road,Delhi,Karnataka,female,+911317220259,022-74054726,cricket,MBA,NIT
+Priya,Prasad,33,L-511 Rakshak Society,New Pune Road,Pune,Delhi,male,+918035409865,022-70606201,cricket,MBA,Mumbai University
+Kavya,Iyer,54,D-818 Green Park,New Pune Road,Mumbai,Telangana,female,+914017061133,022-81852762,gaming,B.Com,Pune University
+Deepika,Reddy,18,X-799 Lake View,MG Road,Chennai,Maharashtra,male,+917704117726,022-46663565,reading,B.Com,Anna University
+Deepika,Gupta,61,F-317 Green Park,Main Street,Hyderabad,Karnataka,female,+917366875539,022-54586943,cooking,B.Tech,Pune University
+Priya,Singh,39,W-830 Rakshak Society,New Pune Road,Mumbai,West Bengal,female,+919770438931,022-86981238,cooking,B.Com,IIT
+Rajesh,Iyer,41,B-902 Green Park,Main Street,Hyderabad,West Bengal,male,+918848860326,022-59931588,traveling,B.Com,Mumbai University
+Priya,Prasad,83,Z-703 Lake View,Ring Road,Chennai,Telangana,female,+918032175417,022-31423290,traveling,B.Tech,NIT
+Rajesh,Prasad,48,E-840 Green Park,New Pune Road,Bangalore,Tamil Nadu,male,+916992215615,022-58508813,traveling,B.Tech,IIT
+Anita,Kumar,15,M-807 Royal Apartments,MG Road,Chennai,Tamil Nadu,female,+918933519332,022-22538862,gaming,MBA,Anna University
+Priya,Iyer,52,M-156 Royal Apartments,New Pune Road,Mumbai,Tamil Nadu,other,+919182741924,022-87161282,reading,M.Tech,NIT
+Arjun,Singh,15,G-758 Lake View,Main Street,Delhi,West Bengal,other,+911721830863,022-60197942,reading,B.Tech,NIT
+Vikram,Patel,19,X-315 Lake View,Ring Road,Pune,Telangana,female,+915601661330,022-68654573,reading,B.Com,Pune University
+Priya,Prasad,50,P-750 Royal Apartments,Ring Road,Pune,West Bengal,male,+915442559642,022-40892548,reading,B.Sc,Pune University
+Kavya,Sharma,43,R-822 Lake View,MG Road,Bangalore,West Bengal,other,+911644580321,022-21262949,gaming,MBA,Pune University
+Amit,Kumar,75,B-57 Green Park,New Pune Road,Delhi,Karnataka,male,+919363304433,022-22742916,reading,B.Sc,Pune University
+Deepika,Mehta,30,O-99 Rakshak Society,New Pune Road,Delhi,Delhi,female,+916524748011,022-84812260,traveling,MBA,Anna University
+Anita,Mehta,68,L-106 Royal Apartments,New Pune Road,Pune,Delhi,other,+913499315587,022-60804214,music,B.Com,Anna University
+Kavya,Prasad,51,D-338 Green Park,MG Road,Mumbai,Tamil Nadu,male,+914894956319,022-99617868,gaming,B.Sc,Mumbai University
+Vikram,Sharma,35,M-487 Lake View,MG Road,Delhi,West Bengal,other,+914196751510,022-32325760,reading,B.Com,Anna University
+Kavya,Reddy,16,Y-989 Lake View,New Pune Road,Chennai,Telangana,female,+917962684945,022-40407195,music,B.Com,IIT
+Anita,Prasad,70,N-679 Green Park,Ring Road,Pune,Delhi,male,+915151053995,022-38694584,traveling,M.Tech,IIT
+Anita,Sharma,33,M-385 Green Park,Main Street,Chennai,Tamil Nadu,other,+917509152916,022-62413495,traveling,B.Sc,Pune University
+Anita,Singh,43,O-250 Green Park,Main Street,Hyderabad,Delhi,female,+917004584767,022-19191523,cooking,M.Sc,IIT
+Arjun,Prasad,61,F-904 Green Park,New Pune Road,Kolkata,Tamil Nadu,male,+919226700712,022-40789891,cricket,B.Sc,Pune University
+Deepika,Singh,58,A-824 Lake View,MG Road,Delhi,Maharashtra,male,+914155530214,022-20759921,music,B.Com,Pune University
+Rajesh,Prasad,79,P-367 Green Park,Main Street,Kolkata,Telangana,other,+916958179346,022-23965772,traveling,M.Tech,Anna University
+Vikram,Patel,63,G-304 Lake View,New Pune Road,Pune,West Bengal,male,+914258055530,022-62626813,cricket,B.Sc,Mumbai University
+Anita,Prasad,80,E-874 Lake View,Main Street,Mumbai,West Bengal,male,+917011085135,022-84132356,music,M.Tech,IIT
+Vikram,Sharma,52,Y-743 Rakshak Society,Main Street,Pune,Delhi,male,+916369080819,022-32474086,music,B.Sc,Mumbai University
+Deepika,Desai,46,H-686 Royal Apartments,New Pune Road,Mumbai,Delhi,female,+919419411163,022-99320130,cooking,M.Sc,Pune University
+Rajesh,Mehta,51,D-517 Green Park,Main Street,Mumbai,Delhi,female,+912395388345,022-94323097,reading,M.Sc,Pune University
+Kavya,Mehta,15,X-631 Green Park,Ring Road,Delhi,West Bengal,male,+915691339206,022-85253251,traveling,M.Sc,IIT
+Deepika,Singh,63,R-373 Green Park,MG Road,Mumbai,Tamil Nadu,male,+912631691247,022-25560280,cooking,MBA,Anna University
+Kavya,Gupta,28,S-958 Rakshak Society,MG Road,Delhi,Delhi,male,+917684500698,022-42883676,traveling,B.Com,Anna University
+Sneha,Singh,30,W-273 Royal Apartments,Main Street,Bangalore,Telangana,male,+913008721101,022-50347014,cooking,B.Com,Pune University
+Priya,Mehta,63,C-236 Rakshak Society,New Pune Road,Pune,Tamil Nadu,male,+919802253443,022-93390000,reading,MBA,Anna University
+Deepika,Iyer,17,E-375 Royal Apartments,New Pune Road,Mumbai,Telangana,female,+911210349166,022-16492130,traveling,M.Sc,Mumbai University
+Arjun,Sharma,15,P-308 Royal Apartments,Main Street,Chennai,West Bengal,female,+915525712573,022-45426053,reading,MBA,Pune University
+Rohit,Kumar,62,A-428 Royal Apartments,Main Street,Bangalore,West Bengal,male,+918636866283,022-22786152,traveling,B.Tech,IIT
+Rohit,Iyer,19,N-384 Green Park,New Pune Road,Mumbai,Tamil Nadu,female,+917714864849,022-14479383,cricket,MBA,Mumbai University
+Arjun,Kumar,69,P-843 Lake View,New Pune Road,Hyderabad,Tamil Nadu,female,+919090470264,022-14219592,reading,M.Tech,Anna University
