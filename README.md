@@ -87,3 +87,5 @@ This creates JSON objects like:
   "address": { "city": "Mumbai", "country": "India" }
 }
 ```
+
+[<img src="https://run.pstmn.io/button.svg" alt="Run In Postman" style="width: 128px; height: 32px;">](https://www.postman.com/telecoms-participant-23594255/csv-to-json/collection/s0zj5c2/csv-upload-api?action=share&creator=32681181)
