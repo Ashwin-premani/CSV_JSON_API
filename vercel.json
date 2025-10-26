@@ -1,0 +1,10 @@
+{
+  "functions": {
+    "api/**/*.js": {
+      "includeFiles": "public/test-data/**"
+    },
+    "server.js": {
+      "includeFiles": "public/test-data/**"
+    }
+  }
+}
