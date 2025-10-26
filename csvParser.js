@@ -1,5 +1,6 @@
 import fs from 'fs';
 import dotenv from 'dotenv';
+import path from 'path';
 dotenv.config();
 
 /**
@@ -7,7 +8,8 @@ dotenv.config();
  * supports nested properties using dot notation in headers (e.g., "user.name")
  */
 export function parseCSV(filePath) {
-  const content = fs.readFileSync(filePath, 'utf-8').trim();
+  const fullPath = path.join(process.cwd(), filePath);
+  const content = fs.readFileSync(fullPath, 'utf-8').trim();
   const [headerLine, ...lines] = content.split('\n');
   const headers = headerLine.split(',').map(h => h.trim());
 
